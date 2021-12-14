@@ -1,0 +1,3 @@
+1|0|Public
+50|$|A {{magnetic}} starter has a contactor and an overload relay, {{which will}} open the control voltage to the <b>starter</b> <b>coil</b> if it detects an overload on a motor.Overload relays may rely on heat produced by the motor current to operate a bimetal contact or release a contact held closed by a low-melting-point alloy. The overload relay opens a set of contacts that are wired in series with the supply to the contactor feeding the motor. The characteristics of the heaters can be matched to the motor so that the motor is protected against overload. Recently, microprocessor-controlled motor digital protective relays offer more comprehensive protection of motors.|$|E
+

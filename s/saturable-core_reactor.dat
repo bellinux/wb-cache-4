@@ -1,0 +1,4 @@
+1|1|Public
+40|$|Direct current sensed via <b>saturable-core</b> <b>reactor.</b> Transducer senses {{direct current}} magnetically, {{providing}} isolation between input and output. Detecting-and-isolating element saturable reactor, where input current passes through one-turn control coil. Provides output of 0 to 3 Vdc for input current of 0 to 15 Adc and consumes power of 22 mW at 10 Adc input. Input sensed magnetically, output electrically isolated from input...|$|E
+50|$|Before the {{development}} of the varicap, motor driven variable capacitors or <b>saturable-core</b> <b>reactors</b> were used as electrically controllable reactances in the VCOs and filters of equipment like World War II German spectrum analyzers.|$|R
+

@@ -1,0 +1,37 @@
+0|580|Public
+40|$|The method {{involves}} {{grouping of}} the <b>stereo</b> <b>audio</b> spectral values in scale factor bands, before coding via an intensity-stereo method, {{so that one}} channel carries the intensity-stereo coded <b>stereo</b> <b>audio</b> spectral values and the other channel carries <b>stereo</b> <b>audio</b> spectral values equal to zero. The intensity-stereo coded <b>stereo</b> <b>audio</b> coded values are decoded for each scale factor band and a prediction method is used to provide the coded <b>stereo</b> <b>audio</b> spectral values for the other channel. ADVANTAGE - Reduced bit rate for increased data transmission rate without impaired quality...|$|R
+5000|$|Support for <b>stereo</b> backing <b>audio</b> track + <b>stereo</b> <b>audio</b> track per {{video track}} ...|$|R
+5000|$|<b>Stereo</b> <b>audio</b> in and <b>stereo</b> <b>audio</b> out connectors. The audio in connects {{from the}} A500 to the A570 and the audio out {{goes to the}} {{speakers}} (or monitor).|$|R
+40|$|WO 200143503 A UPAB: 20011108 NOVELTY - The <b>stereo</b> <b>audio</b> signal {{processing}} device uses {{analysis of the}} <b>stereo</b> <b>audio</b> signal for determining the bit quantity required by a coder for coding the <b>stereo</b> <b>audio</b> signal, both <b>stereo</b> channels (L,R) modified when the bit quantity is above a given value, so that {{the energy of the}} sum signal for both modified channels (L',R') has a predetermined ratio relative to the sum signal for the initial channels. DETAILED DESCRIPTION - An INDEPENDENT CLAIM for a <b>stereo</b> <b>audio</b> {{signal processing}} method is also included. USE - The processing device is used for coding <b>stereo</b> <b>audio</b> signals. ADVANTAGE - The stereo signal processing allows the audio bandwidth to be increased or the quantisation interference to be reduced...|$|R
+50|$|<b>Stereo</b> <b>audio</b> {{broadcasts}} using available cable FM channels {{were permitted}} by the CRTC on 11 February 1983. C Channel immediately activated its <b>stereo</b> <b>audio</b> feed when it received this approval.|$|R
+5000|$|... {{generate}} <b>stereo</b> <b>audio</b> stream {{from two}} mono audio input streams ...|$|R
+40|$|The coding {{method has}} the <b>stereo</b> <b>audio</b> {{spectral}} values grouped into scale factor bands (28), with formation of sections each containing {{at least one}} scale factor band. The audio spectral values are coded within each section using a coding table selected {{from a number of}} coding tables. Each coding table is identified by a coding table number transmitted alongside the coded <b>stereo</b> <b>audio</b> spectral values. An additional coding table number is transmitted for an intensity stereo coding method, or an adaptive Huffman coding method for the <b>stereo</b> <b>audio</b> spectral values. ADVANTAGE - Provides compression of audio digital signals without quality degradation...|$|R
+5000|$|Mono or <b>stereo</b> <b>audio,</b> if sent via {{connector}} cables between devices ...|$|R
+50|$|Composite or {{component}} video {{at up to}} 576i and <b>stereo</b> <b>audio</b> can be output from the dock connector using an adapter sold by Apple. IPhone 4 also supports 1024×768 VGA output without audio, and HDMI output, with <b>stereo</b> <b>audio,</b> via dock adapters. The iPhone did not support voice recording until the 3.0 software update.|$|R
+50|$|New {{features}} includes 8-way joystick, <b>stereo</b> <b>audio,</b> and the Card Dispenser option.|$|R
+5000|$|Bluetooth 2.0 with <b>stereo</b> <b>audio</b> {{profiles}} for wireless music {{listening and}} control ...|$|R
+5000|$|Bluetooth {{wireless}} technology 2.0 with A2DP <b>stereo</b> <b>audio,</b> enhanced data rates (EDR) ...|$|R
+5000|$|... 5-pin DIN A/V {{connector}} with composite {{video and}} <b>stereo</b> <b>audio</b> output only.|$|R
+5000|$|Bluetooth {{hands-free}} telephone and wireless <b>stereo</b> <b>audio</b> streaming were optional for all models.|$|R
+5000|$|MP3 and <b>stereo</b> <b>audio</b> headset {{compatible}} (requires {{a converter}} to accept standard headset).|$|R
+5000|$|RCA <b>audio</b> jacks provide <b>stereo</b> <b>audio</b> for analog CRT {{television}} sets or VCRs.|$|R
+5000|$|Record {{both the}} normal <b>stereo</b> <b>audio</b> and SAP audio {{on the same}} tape ...|$|R
+5000|$|... #Caption: RCA Plugs for {{composite}} video (yellow) and <b>stereo</b> <b>audio</b> (white and red) ...|$|R
+50|$|Extrapolator - expands <b>stereo</b> <b>audio</b> to a {{multi-channel}} {{sound stage}} using physical modelling techniques.|$|R
+5000|$|Audio Front End: {{the data}} path for {{converting}} <b>stereo</b> <b>audio</b> from an audio source; ...|$|R
+5000|$|<b>Stereo</b> <b>audio,</b> with {{multiple}} channels and digital audio playback (PCM, ADPCM, streaming CD-DA audio) ...|$|R
+5000|$|Reflexions de la mer (2010) - for 2 bass marimbas, vibraphone & <b>stereo</b> <b>audio</b> ...|$|R
+50|$|The {{official}} VGA Box {{consists of}} a rectangular black plastic case, bearing a VGA out port and a 3.5 mm minijack for <b>stereo</b> <b>audio</b> output on one side, and an A/V output jack breakout panel (S-Video, composite, and RCA <b>stereo</b> <b>audio</b> jacks) on the other, for switching output either to a typical computer monitor and speakers/headphones or to a typical TV.|$|R
+5000|$|<b>Stereo</b> <b>audio</b> input, {{only for}} mixing another sound source into the CS2x, no effects applied ...|$|R
+5000|$|Movie format: Apple QuickTime MOV. H264 video codec, <b>stereo</b> <b>audio</b> track {{recorded}} {{through two}} microphones.|$|R
+50|$|Freemake <b>Audio</b> <b>Converter</b> is an ad-supported audio {{conversion}} utility {{developed by}} Ellora Assets Corporation. The program {{is used to}} convert across different audio formats, merge audio files, and extract audio from video files. Freemake <b>Audio</b> <b>Converter</b> 1.0.0 does not support CD burning. Since 2016, the program has reached a user base of over 63 million people.|$|R
+5000|$|Connectivity: Wi-Fi (802.11b/g), Bluetooth 2.0+EDR, GPS built A-GPS, AGPS support, FM receiver, 3.5mm <b>stereo</b> <b>audio</b> jack ...|$|R
+5000|$|... #Caption: A 100 watt <b>stereo</b> <b>audio</b> {{amplifier}} used in home component audio {{systems in}} the 1970s.|$|R
+5000|$|... “TSMC IP partner award” for analog/mixed-signal IP {{for high}} [...] SNR <b>audio</b> <b>converters</b> ...|$|R
+30|$|The third encoder is for Matsumoto Regional Fire Bureau, {{which has}} 2 video and <b>stereo</b> <b>audio</b> interfaces.|$|R
+5000|$|Empia EMP202 (2 channel, 20-bit DAC and 20-bit ADC, {{full duplex}} AC'97 2.2 {{compatible}} <b>stereo</b> <b>audio</b> CODEC) ...|$|R
+50|$|The user {{interface}} of Freemake <b>Audio</b> <b>Converter</b> {{is based on}} Windows Presentation Foundation technology.|$|R
+5000|$|Game Gear - used a clone {{integrated}} into its VDP; this version has extensions for <b>stereo</b> <b>audio</b> output.|$|R
+5000|$|<b>Stereo</b> <b>audio</b> {{playback}} using Nokia stereo headphones or Nokia AD-15 3.5mm stereo headphone adapter (6600 was mono only) ...|$|R
+5000|$|On the {{following}} albums and DVDs, Davis remixed the <b>stereo</b> <b>audio,</b> and mixed the 5.1-channel surround sound audio: ...|$|R
+5000|$|Portable service: MPEG-4 HE-AAC v2@L2 (HE-AAC, Version 2, Level 2) for <b>stereo</b> <b>audio</b> (or 2 mono channels) only.|$|R

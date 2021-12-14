@@ -1,0 +1,37 @@
+107|375|Public
+25|$|Classic is not {{supported}} on the x86 architecture. This means that pre-Mac OS X software does not run on Mac OS <b>X</b> <b>out</b> of the box, to which some users running older applications (such as QuarkXPress 4 and 5) objected. However, third-party emulators, such as Mini vMac, Basilisk II, and SheepShaver, have been ported to Intel-based Macs, allowing some pre-Mac OS X software to run.|$|E
+25|$|In {{accepting}} the papacy, Sarto took as his papal name Pius <b>X,</b> <b>out</b> {{of respect for}} his recent predecessors of the same name, particularly that of Pope Pius IX (1846–78), who had fought against theological liberals and for papal supremacy. Pius X's traditional coronation {{took place on the}} following Sunday, 9 August 1903. Upon being elected pope he was also formally the Grand Master of the Equestrian Order of the Holy Sepulchre of Jerusalem, prefect of the Supreme Sacred Congregation of the Holy Office, prefect of the Sacred Congregation for the Oriental Churches and prefect of the Sacred Consistorial Congregation. There was however a cardinal-secretary to run these bodies on a day-to-day basis.|$|E
+2500|$|... {{be defined}} as the ratio of the mass [...] (in kg) of X in the box to its removal rate, which is the sum of the flow of <b>X</b> <b>out</b> of the box ...|$|E
+30|$|As {{the utility}} {{difference}} in the Model (7) is solved, P <b>X</b> drops <b>out</b> of the equation.|$|R
+5000|$|... newtype Rec a = In { out :: Rec a -> a }y :: (a -> a) -> ay = \f -> (\x -> f (<b>out</b> <b>x</b> x)) (In (\x -> f (<b>out</b> <b>x</b> x))) ...|$|R
+5000|$|... type 'a recc = In of ('a recc -> 'a)let <b>out</b> (In <b>x)</b> = xlet y f = (fun x a -> f (<b>out</b> <b>x</b> x) a) (In (fun x a -> f (<b>out</b> <b>x</b> x) a)) ...|$|R
+5000|$|Economist Intelligence Unit: E-readiness 2008, ranked <b>x</b> <b>out</b> of 45 {{countries}} ...|$|E
+5000|$|CIA World Factbook: Military {{expenditures}} ranked <b>X</b> <b>out</b> of 171 countries ...|$|E
+5000|$|The Economist Democracy Index 2007, ranked <b>x</b> <b>out</b> of 167 {{countries}} ...|$|E
+30|$|The lexicographic {{order of}} <b>X</b> turns <b>out</b> to {{coincide}} with the lexicographic order in the Lyndon letters—i.e. with respect to (2.15).|$|R
+50|$|His first movie, Ben <b>X,</b> came <b>out</b> in 2007 and has {{received}} critical acclaim. The next feature film which Balthazar directed, Tot Altijd, {{was released in}} January 2012.|$|R
+5000|$|Regardless of the amount, the {{changing}} cover price of Mad {{has long been}} followed by the word [...] "Cheap!". Variants have occasionally appeared; following an increase from 25 to 30 cents, the successive issues claimed to be [...] "Cheap" [...] (but <b>Xd</b> <b>out),</b> [...] "Cheap?", and [...] "Kinda Cheap". A rise to 40 cents sparked almost a years worth of variations: [...] "Ouch!", [...] "Outrageous!", [...] "No Laughing Matter", [...] "Relatively Cheap", [...] "Cheap (Considering)", and again, [...] "Cheap?". Other price increases were billed as [...] "Almost Cheap", [...] "Inflated!", and for a cover featuring Bonnie and Clyde, [...] "Highway Robbery".|$|R
+5000|$|World Health Organization: suicide rate, ranked <b>x</b> <b>out</b> of 100 {{countries}} ...|$|E
+5000|$|Total area ranked <b>X</b> <b>out</b> of 233 {{countries}} and outlying territories ...|$|E
+5000|$|The Economist EIU: Democracy Index 2008, ranked <b>X</b> <b>out</b> of 167 {{countries}} ...|$|E
+5000|$|... #Caption: Signal flag <b>X</b> (Xray)"Stop {{carrying}} <b>out</b> your {{intentions and}} watch for my signals" ...|$|R
+50|$|In 2009, K-ness began wrestling as 'X' {{although}} no one knew who exactly X was. Genki Horiguchi eventually called <b>out</b> <b>X,</b> who turned <b>out</b> to be K-ness. He stopped teaming with the other veterans and joined Real Hazard, reuniting the K-neSuka team with Susumu Yokosuka. On January 11, 2010, he defeated Naoki Tanisaki to become the Open the Brave Gate Champion.|$|R
+50|$|In fall 415, Yao Xing {{fell ill}} again, and Yao Bi {{secretly}} gathered forces again {{to plan a}} coup. Yao <b>Xing</b> found <b>out</b> and arrested Yao Bi, but at Yao Hong's urging did not execute him but instead released him.|$|R
+5000|$|United Nations gross {{enrolment}} ratio 2005, ranked <b>X</b> <b>out</b> of 177 countries ...|$|E
+5000|$|United Nations: e-Government Readiness Index, 2008, ranked <b>x</b> <b>out</b> of 50 {{countries}} ...|$|E
+5000|$|Transparency International: Corruption Perceptions Index 2008, ranked <b>x</b> <b>out</b> of 180 {{countries}} ...|$|E
+5000|$|... {{procedure}} Increment (<b>X</b> : in <b>out</b> Counter_Type) [...] with Global => null, Depends => (X => X); ...|$|R
+50|$|<b>X</b> plays <b>out</b> like a tragedy, {{where the}} {{characters}} are {{at the mercy of}} forces greater than themselves. The series shares some motifs with apocalyptic literature, like the disclosure of future events through dreams, and establishes a dual nature to its characters and concepts.|$|R
+5000|$|Colossus {{appears in}} a non-speaking cameo in the final episode of Marvel Anime: X-Men. He is among the other X-Men members and other heroes that Professor <b>X</b> reaches <b>out</b> {{to in order to}} deal with the {{worldwide}} crisis that was being caused by Takeo Sasaki.|$|R
+5000|$|World Economic Forum Networked Readiness Index 2007-2008, ranked <b>x</b> <b>out</b> of 127 {{countries}} ...|$|E
+5000|$|World Economic Forum: Global Competitiveness Report 2008-2009, ranked <b>x</b> <b>out</b> of 125 {{countries}} ...|$|E
+5000|$|CIA World Factbook: Military {{expenditures}} ratio to GDP, ranked <b>X</b> <b>out</b> of 174 countries ...|$|E
+50|$|The 34 yard {{touchdown}} {{catch in}} Super Bowl <b>X,</b> turned <b>out</b> to be Howard's only career reception and his last {{game in the}} NFL. Still, he would {{become part of the}} Cowboys lore and was named #6 on NFL Top 10's Top Ten One-Shot Wonders.|$|R
+50|$|The {{producers}} picked four eliminated rappers. Picking either <b>X</b> or O <b>out</b> of a hat, {{the four}} {{were randomly assigned}} a battle.|$|R
+5000|$|If we {{take the}} modules to be over a field, then the {{dimension}} of the n-th homology of <b>X</b> turns <b>out</b> to be the number of [...] "holes" [...] in X at dimension n. It may be computed by putting matrix representations of these boundary mappings in Smith normal form.|$|R
+5000|$|Center for Strategic and International Studies: active troops ranked <b>x</b> <b>out</b> of 166 {{countries}} ...|$|E
+5000|$|Reporters without borders: Worldwide {{press freedom}} index 2008, ranked <b>x</b> <b>out</b> of 173 {{countries}} ...|$|E
+5000|$|Reporters Without Borders: Worldwide Press Freedom Index 2008, ranked <b>X</b> <b>out</b> of 173 {{countries}} ...|$|E
+3000|$|Thus in {{contrast}} to lagged mutual information, the past of the process <b>X</b> is conditioned <b>out.</b> Eq. (5) might be read as: [...]...|$|R
+5000|$|... {{procedure}} Increment (<b>X</b> : in <b>out</b> Counter_Type) [...] with Global => (In_Out => Count), Depends => (Count => (Count, X), X => null); ...|$|R
+5000|$|Lamont Cranston, Loverboy, AirKraft, Rare Earth, Molly Hatchet, Starship {{featuring}} Mickey Thomas, Cheap Trick, Pat Benatar, Eric Burdon, E.L.O. part II, The Allman Brothers Band, Bruce Hornsby, Kansas, Little River Band, Fleetwood Mac, Foreigner, G.B. Leighton, Freckles and the Hostages, Palace, Kidd Gloves, The Hoopsnakes, Roadtrip, Vic Ferrari, Shady Glenn, Milestone, Recipe <b>X,</b> Inside <b>Out</b> Band ...|$|R

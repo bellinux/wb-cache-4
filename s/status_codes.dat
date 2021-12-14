@@ -1,0 +1,37 @@
+90|391|Public
+500|$|The {{following}} <b>status</b> <b>codes</b> {{have been}} used to annotate some species: ...|$|E
+500|$|Conservation <b>status</b> <b>codes</b> listed {{follow the}} IUCN red list of {{threatened}} species (v. 2014.3; data current at [...] ).|$|E
+500|$|Conservation <b>status</b> <b>codes</b> listed {{follow the}} International Union for Conservation of Nature (IUCN) Red List of Threatened Species. Range maps are {{provided}} wherever possible; if a range map is not available, {{a description of}} the bird's range is provided. Ranges are based on the IUCN red list for that species unless otherwise noted. All extinct species listed went extinct after 1500 CE (recently extinct), and are indicated by a dagger symbol [...] "†".|$|E
+5000|$|HTTP <b>status</b> <b>code</b> for [...] "Not Found", {{perhaps the}} most famous HTTP <b>status</b> <b>code.</b>|$|R
+5000|$|... {{proposed}} HTTP <b>status</b> <b>code</b> {{indicating a}} gateway time-out, SMTP <b>status</b> <b>code</b> meaning bad {{sequence of commands}} ...|$|R
+50|$|As {{the name}} suggests, this <b>status</b> <b>code</b> {{is simply a}} {{combination}} of 10h Intermediate and 04h Condition Met.This <b>status</b> <b>code</b> is obsolete starting with SAM-4.|$|R
+2500|$|The <b>status</b> <b>codes</b> used until 2007 were [...] "C" [...] {{for foreign}} consul; [...] "D" [...] for diplomat; [...] "S" [...] for non-diplomatic staff; and [...] "A" [...] for a UN employee. The status code {{indicates}} {{the type of}} diplomatic, consular, or other immunity enjoyed by the vehicle's registrant.|$|E
+5000|$|HTTP/1.1 defines several <b>status</b> <b>codes</b> for {{redirection}} (RFC 7231): ...|$|E
+50|$|<b>Status</b> <b>codes</b> 401 (Unauthorized) and 403 (Forbidden) have {{distinct}} meanings.|$|E
+5000|$|...502 = 2 &times; 251, also a {{proposed}} HTTP <b>status</b> <b>code</b> for indicating server is temporarily overloaded, SMTP <b>status</b> <b>code</b> meaning command not implemented----503 is: ...|$|R
+50|$|Similar to 08h Busy <b>status,</b> this <b>status</b> <b>code</b> is {{returned}} when the logical unit lacks {{the resources to}} accept a received task from an I_T nexus. This <b>status</b> <b>code</b> implies that the logical unit already {{has at least one}} task from that I_T nexus, where the 08h Busy <b>status</b> <b>code</b> implies that the logical unit currently has no tasks from that I_T nexus.|$|R
+5000|$|A SCSI <b>Status</b> <b>Code</b> {{is used to}} {{determine}} {{the success or failure of}} a SCSI command. At the end of any command, the target returns a <b>Status</b> <b>Code</b> byte which should be one of the following: ...|$|R
+5000|$|... (<b>Status</b> <b>codes</b> 304 not {{modified}} and 305 use proxy are not redirects).|$|E
+5000|$|... section 6, and , section 2.1, {{lists the}} {{different}} <b>status</b> <b>codes</b> and their descriptions.|$|E
+5000|$|... A Registry for SMTP Enhanced Mail System <b>Status</b> <b>Codes</b> (BCP 138) (updates [...] ) ...|$|E
+25|$|In 2015, the Internet Engineering Steering Group {{approved}} {{the publication of}} An HTTP <b>Status</b> <b>Code</b> to Report Legal Obstacles, now RFC 7725, which specifies that websites forced to block resources for legal reasons should return a <b>status</b> <b>code</b> of 451 when users request those resources.|$|R
+5000|$|A common {{method is}} to direct all web traffic to a web server, which returns an HTTP {{redirect}} to a captive portal. [...] When a modern, internet-enabled device first connects to a network, it sends out a HTTP request and expects an HTTP <b>status</b> <b>code</b> of 204. If the device receives a HTTP 204 <b>status</b> <b>code,</b> it assumes it has unlimited internet access. Captive portal prompts are displayed when {{you are able to}} manipulate this first HTTP message to return a HTTP <b>status</b> <b>code</b> of 302 (redirect) to the captive portal of your choice.|$|R
+5000|$|... the SMTP <b>status</b> <b>code</b> meaning command {{parameter}} not implemented ...|$|R
+5000|$|... x5z [...] - [...] File system. These replies relay <b>status</b> <b>codes</b> {{from the}} server file system.|$|E
+50|$|Diplomatic plates {{have their}} <b>status</b> <b>codes</b> in red, {{and the numbers}} in black on a white background.|$|E
+5000|$|Maintain {{high-level}} {{compatibility with}} HTTP 1.1 (for example with methods, <b>status</b> <b>codes,</b> URIs, and most header fields).|$|E
+5000|$|... 203 is the HTTP <b>status</b> <b>code</b> {{indicating}} non-authoritative information.|$|R
+5000|$|HTTP {{metadata}} including user-agent, session ID, <b>status</b> <b>code,</b> and IP address ...|$|R
+5000|$|HTTP <b>status</b> <b>code</b> for [...] "Payment Required", {{area code}} for Nebraska ...|$|R
+5000|$|Network {{protocols}} typically support returning <b>status</b> <b>codes.</b> In the TCP/IP stack, it's {{a common}} feature of higher level protocols. For example: ...|$|E
+5000|$|... 15 June 1998: Analog 3.0 {{included}} {{support for}} HTTP/1.1 <b>status</b> <b>codes</b> and included a more refined log parsing engine {{in addition to}} the ability to parse non-standard log file formats.|$|E
+50|$|When an SES {{controller}} is interrogated for {{the status}} of an SES element, the response includes a 4-bit element status code. The most common element <b>status</b> <b>codes</b> are: 1h=OK, 2h=critical, 3h=warning, 5h=not installed.|$|E
+50|$|This <b>status</b> <b>code</b> {{indicates}} that the device has completed the task successfully.|$|R
+50|$|This <b>status</b> <b>code</b> is {{returned}} on {{successful completion of}} a Pre-fetch Command.|$|R
+5000|$|HTTP <b>status</b> <b>code</b> for [...] "Length Required", {{slang for}} {{information}} (see 4-1-1) ...|$|R
+50|$|HTTP/2 leaves most of HTTP 1.1's {{high-level}} syntax, such as methods, <b>status</b> <b>codes,</b> header fields, and URIs, the same. What's new is how {{the data}} is framed and transported between the client and the server.|$|E
+50|$|All {{of these}} <b>status</b> <b>codes</b> require the URL of the {{redirect}} target {{to be given}} in the Location: header of the HTTP response. The 300 multiple choices will usually list all choices {{in the body of}} the message and show the default choice in the Location: header.|$|E
+5000|$|The <b>status</b> <b>codes</b> used until 2007 were [...] "C" [...] for Foreign Consul; [...] "D" [...] for Diplomat; [...] "S" [...] for Non-Diplomatic Staff; and [...] "A" [...] for a UN employee. The {{rights of}} the driver and car under {{diplomatic}} immunity are defined by this status code.|$|E
+50|$|The target returns this <b>status</b> <b>code</b> if an auto-contingent {{allegiance}} condition has occurred.|$|R
+5000|$|The HTTP <b>Status</b> <b>Code</b> 303 See Other {{is to be}} {{interpreted}} as follows: ...|$|R
+5000|$|The HTTP <b>status</b> <b>code</b> {{indicating}} that the client should continue with its request.|$|R

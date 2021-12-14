@@ -1,0 +1,4 @@
+2|0|Public
+50|$|<b>Stellar</b> <b>triangulation</b> is {{a method}} of geodesy which uses cosmic instead of {{terrestrial}} targets. It was first done by the Finnish geodesist Väisälä in 1959, who made astrometric photographs of the sky at two stations together with a balloon probe between them.|$|E
+50|$|The {{advantage}} of <b>stellar</b> <b>triangulation</b> {{is the possibility}} to cross far distances (terrestrial observations are restricted to approx. 30 km, and even in high mountains to 60 km), and the independency of the Earth's gravity field. The results are azimuths between the stations in the stellar-inertial navigation system, despite of no direct line of sight.|$|E
+

@@ -1,0 +1,5 @@
+3|0|Public
+5000|$|Nether <b>Spurgear</b> Wheel (extant) {{also known}} as 3rd Endcliffe Wheel ...|$|E
+5000|$|Ibbotson’s Wheel (extant) {{previously}} Upper <b>Spurgear</b> Wheel or 4th Endcliffe Wheel.|$|E
+40|$|In {{the present}} paper two {{different}} approaches for <b>spurgear</b> noise reduction using micro-geometrical modiﬁ-cations are compared. The two approaches are basedrespectively on the reduction of Static TransmissionError (STE) and Dynamic Transmission Error (DTE) ﬂuctuations. The dynamic behaviour of the system iscomputed through a simple lumped parameter model. A genetic algorithm is proposed to ﬁnd the best solu-tions inside the parameters space because the evalua-tion of the objective functions requires ﬁnite elementscalculations and numerical ODE integrations. A relia-bility analysis is afterwards performed to evaluate theeffect of manufacturing errors on the dynamic perfor-mance of the achieved optimum...|$|E
+

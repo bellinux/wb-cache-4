@@ -1,0 +1,37 @@
+0|10000|Public
+50|$|On 2 May 2002, a train {{collided}} with a transport truck at the Firdale, Manitoba CN crossing. The derailed equipment included five tank cars carrying dangerous goods. During the derailment, four of the tank cars sustained multiple punctures and released their <b>products.</b> <b>The</b> <b>products</b> <b>ignited</b> and a large fire engulfed the derailed cars.|$|R
+2500|$|The rabbi {{may also}} apply {{additional}} words or letters after the hechsher to denote <b>whether</b> <b>the</b> <b>product</b> contains meat (often denoted [...] "Meat"), dairy (D or Dairy), neither meat nor dairy (Pareve), <b>whether</b> <b>the</b> <b>product</b> is Kosher for Passover {{because it contains}} no chametz (P), <b>whether</b> <b>the</b> <b>product</b> is Pas Yisroel (bread baked {{at least in part}} by a Jew), cholov yisroel (any dairy products came from Jewish owned farms), or <b>whether</b> <b>the</b> <b>product</b> is yoshon (lit. [...] "old": all grain contents took root before the previous Passover).|$|R
+50|$|Data graph: Specifies <b>whether</b> <b>the</b> <b>product</b> {{provides}} graphs of results.|$|R
+5000|$|Those who check <b>whether</b> <b>the</b> <b>product</b> meets <b>the</b> quality requirements.|$|R
+5000|$|Those who check <b>whether</b> <b>the</b> <b>product</b> meets <b>the</b> {{acceptance}} criteria {{set forth in}} <b>the</b> <b>product</b> description.|$|R
+50|$|Drill-down (Pivot): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} drill-down features through pivot table.|$|R
+5000|$|Audio: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} recording audio {{commentary on}} the video ...|$|R
+50|$|MRO can be {{categorised}} by <b>whether</b> <b>the</b> <b>product</b> remains <b>the</b> {{property of}} the customer (i.e. a service is being offered), or <b>whether</b> <b>the</b> <b>product</b> is bought by the reprocessing organisation and sold to any customer wishing to make the purchase (Guadette, 2002). In the former case {{it may be a}} backshop operation within a larger organization or smaller operation.|$|R
+50|$|Age analysis: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} making age analysis (stratification by date).|$|R
+50|$|Import (DBF): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} {{import data}} from dBase DBF files.|$|R
+50|$|Sort {{multiple}} fields: Specifies <b>whether</b> <b>the</b> <b>product</b> supports sorting {{by multiple}} fields (columns).|$|R
+50|$|Import (SIE): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} {{import data}} from a SIE format file.|$|R
+50|$|Import (CSV): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} {{import data}} from a comma-separated values formatted file.|$|R
+5000|$|... 1. Decide <b>whether</b> <b>the</b> <b>product</b> {{needs to}} have a CE marking. <b>The</b> <b>product</b> must conform to all Directives that apply to <b>the</b> <b>product.</b>|$|R
+50|$|Export (DBF): Specifies <b>whether</b> <b>the</b> <b>product</b> support {{exporting}} (saving) selected rows to a dBase Table file.|$|R
+50|$|Benford's law: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} finding abnormal {{distribution of}} specific digits accordingly to Benford's law.|$|R
+50|$|Sample (Random): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} {{selecting a}} random sample of rows from the table/file (population).|$|R
+5000|$|The {{degree of}} {{commonality}} among <b>the</b> <b>products</b> falling under <b>the</b> corporate umbrella (e.g. <b>Whether</b> <b>the</b> <b>products</b> may act as substitutes for each other).|$|R
+50|$|Total row: Specifies <b>whether</b> <b>the</b> <b>products</b> {{supports}} {{displaying a}} total row for the table/file, e.g. accumulated numerical value.|$|R
+50|$|Drill-down (Table): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} drill-down features by zooming in (filtering) {{on selected}} rows in the table.|$|R
+5000|$|DirectX: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} recording {{from video}} games or software that employ Direct3D to render digital image ...|$|R
+50|$|Import wizard: Specifies <b>whether</b> <b>the</b> <b>product</b> {{provides}} an import wizard {{to assist in}} importing (interpretation, conversion, formatting) data for analysis.|$|R
+5000|$|Editing: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} editing recorded video {{at least}} to some small extent, such as cropping, trimming or splitting ...|$|R
+25|$|<b>Whether</b> <b>the</b> <b>product</b> is {{commonly}} recognized by consumers as being {{intended for use}} by a child 12 {{years of age or}} younger.|$|R
+50|$|Audit log: Specifies <b>whether</b> <b>the</b> <b>product</b> logs {{activity}} {{performed by}} the user (the auditor) for later reference (e.g., inclusion into audit report).|$|R
+50|$|Import (Excel): Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} {{import data}} from Microsoft Excel workbook file. Note that different Excel format versions may apply.|$|R
+5000|$|<b>Whether</b> <b>the</b> <b>product</b> is {{commonly}} recognized by consumers as being {{intended for use}} by a child 12 {{years of age or}} younger.|$|R
+50|$|In {{addition}} to the symbol, many agencies indicate <b>whether</b> <b>the</b> <b>product</b> is dairy ("D"), meaty ("Meat"), pareve ("Pareve"), or kosher for Passover ("P").|$|R
+50|$|Sort field: Specifies <b>whether</b> <b>the</b> <b>product</b> {{supports}} sorting (indexing) by {{a specific}} field (column). Sorting helps identifying blank/empty values or excessive (out-of-band) values.|$|R
+5000|$|Problem Analysis: Determines <b>whether</b> <b>the</b> <b>product</b> is in <b>the</b> {{scope of}} a {{software}} factory. <b>The</b> fit determines <b>whether</b> all {{or some of}} <b>the</b> <b>product</b> is built with the software factory.|$|R
+25|$|<b>Whether</b> <b>the</b> <b>product</b> is {{represented}} in its packaging, display, promotion, or advertising as appropriate for use by children 12 {{years of age or}} younger.|$|R
+50|$|Would {{require a}} {{manufacturer}} of juvenile products, such as bassinets, high chairs and strollers. http://www.sacbee.com/opinion/editorials/article21512046.html stating <b>whether</b> <b>the</b> <b>product</b> contains toxic flame retardant chemicals.|$|R
+5000|$|<b>Whether</b> <b>the</b> <b>product</b> is {{represented}} in its packaging, display, promotion, or advertising as appropriate for use by children 12 {{years of age or}} younger.|$|R
+50|$|The {{availability}} of fungicides as a management tool depends on <b>whether</b> <b>the</b> <b>product</b> has been evaluated and registered for usein a specific country or region.|$|R
+50|$|Solvay is {{sponsoring}} {{a clinical trial}} of Estratest in the United States to determine <b>whether</b> <b>the</b> <b>product</b> is superior to treatment with esterified estrogens tablets.|$|R
+5000|$|Software Verification: The {{process of}} {{evaluating}} software to determine <b>whether</b> <b>the</b> <b>products</b> {{of a given}} development phase satisfy the conditions imposed {{at the start of}} that phase. IEEE-STD-610 ...|$|R

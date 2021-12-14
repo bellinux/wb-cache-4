@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|Schottky <b>TTL</b> (<b>S),</b> {{introduced}} in 1969, which used Schottky diode clamps at gate inputs to prevent charge storage and improve switching time. These gates operated more quickly (3ns) but had higher power dissipation (19 mW) ...|$|E
+30|$|For each s ∈ <b>S,</b> if <b>TTL</b> of <b>s</b> has expired, then S ← S{s.|$|R
+

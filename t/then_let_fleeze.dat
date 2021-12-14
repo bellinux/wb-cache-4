@@ -1,0 +1,37 @@
+0|3946|Public
+6000|$|<b>Then</b> <b>let</b> us fight about, Dumourier; [...] <b>Then</b> <b>let</b> us fight about, Dumourier; [...] <b>Then</b> <b>let</b> us fight about, [...] Till Freedom's spark be out, [...] Then we'll be damn'd, no doubt, Dumourier.|$|R
+6000|$|<b>Then</b> <b>let</b> your schemes alone, in the state, in the state, [...] <b>Then</b> <b>let</b> your schemes {{alone in}} the state. [...] <b>Then</b> <b>let</b> your schemes alone, [...] Adore the rising sun, [...] And leave a man undone, to his fate.|$|R
+5000|$|Begin loop [...] Find , {{such that}} Find , such that Break loop if <b>Let</b> , and <b>then</b> <b>let</b> Compute recursively , and <b>then</b> <b>let</b> End loop; Return [...]|$|R
+30|$|If the {{midpoint}} y_mid of Y is feasible to problem (NQP), set z_mid=Qy_mid, <b>then</b> <b>let</b> F:=F∪{(y_mid,z_mid)}. Furthermore, if y_r(Ω) is feasible to problem (NQP), <b>then</b> <b>let</b> F:=F∪{(y_r(Ω)),z_r(Ω)}.|$|R
+25|$|<b>Then</b> <b>let</b> me die, for now thou hast no cause.|$|R
+60|$|HORNBLOWER. Now <b>then,</b> <b>let's</b> {{have this}} impudent story torn to rags.|$|R
+50|$|Observe and {{experience}} your emotion, accept it, <b>then</b> <b>let</b> it go.|$|R
+5000|$|The {{balancing}} function can now {{be defined}} withfun balance(q as (lenf, f,sf, lenr,r,sr))= if lenf > 2*lenr+1 <b>then</b> <b>let</b> val i= (left+lenr)div 2 val j=lenf + lenr -i val f=take(i,f) val r=rotateDrop(r,i,f) in (i,f,f,j,r,r) else if lenf > 2*lenr+1 <b>then</b> <b>let</b> val j= (left+lenr)div 2 val i=lenf + lenr -j val r=take(i,r) val f=rotateDrop(f,i,r) in (i,f,f,j,r,r) else q ...|$|R
+30|$|<b>Then,</b> <b>let</b> us {{make some}} {{assumptions}} {{which will be}} used throughout the article.|$|R
+2500|$|Formally, if [...] is {{a complex}} Hilbert space, <b>then</b> <b>let</b> [...] be the subset ...|$|R
+60|$|Selin. <b>Then</b> <b>let</b> {{the king}} depart, {{and we will}} try Our cause by arms.|$|R
+60|$|Very well <b>then!</b> <b>let</b> the People {{have a new}} {{religion}} and a new God.|$|R
+60|$|Ind. Must I advise? <b>Then</b> <b>let</b> me see him, and I'll try to obey.|$|R
+50|$|Serial killer Robert Hansen {{abducted}} and <b>then</b> <b>let</b> {{his victims}} loose to hunt them.|$|R
+5000|$|... "If {{you must}} hang somebody, <b>then</b> <b>let</b> it be me," [...] the mayor said.|$|R
+5000|$|<b>Then</b> <b>let</b> {{all those}} who love us, love the land that we live in, ...|$|R
+6000|$|... “What is {{life but}} {{a scene of}} care, Where each one must toil in his way? <b>Then</b> <b>let</b> us be jolly, and prove that we are A set of good fellows, who seem very rare, And can laugh and sing all the day. <b>Then</b> <b>let</b> us be jolly And cast away folly, For grief turns a black head to gray.” ...|$|R
+3000|$|If X^k is not empty, {{for each}} X∈X^k, compute the LPRP(X), and denote its optimum value and optimum {{solution}} by LB(X) and x(X), respectively. If LB(X)>UB_k, let X^k:=X^k∖ X; else if the midpoint x^mid of X is a feasible {{solution of the}} NQPQC(X^ 0), <b>then</b> <b>let</b> Λ :=Λ∪{x^mid}, and if x(X) is a feasible solution of the NQPQC(X^ 0), <b>then</b> <b>let</b> Λ :=Λ∪{x(X)}.|$|R
+2500|$|More precisely, if X and Y are {{a pair of}} tangent vectors at , <b>then</b> <b>let</b> ...|$|R
+60|$|Sir John {{lifted his}} hand as though to strike him, <b>then</b> <b>let</b> it fall again.|$|R
+60|$|Cand. <b>Then,</b> <b>let</b> us {{go where}} we shall ne'er be seen By my hard mother.|$|R
+5000|$|... — If I {{deviate from}} this path, <b>then</b> <b>let</b> me be punished by my people ...|$|R
+5000|$|... ‘If {{her heart}} does ache <b>Then</b> <b>let</b> Lyca wake;If my mother sleep,Lyca shall not weep.|$|R
+5000|$|Detain {{and warn}} the minor against further violations, and <b>then</b> <b>let</b> the minor go free ...|$|R
+60|$|She shook {{back her}} hair and <b>then</b> <b>let</b> it spread over her {{shoulders}} in luxuriant curls.|$|R
+60|$|Valentin gave {{a sort of}} groan, {{lifted his}} hands a moment, and <b>then</b> <b>let</b> them drop.|$|R
+60|$|You do not {{see what}} {{that has to do}} with it? <b>Then</b> <b>let</b> me show you.|$|R
+50|$|There was {{a larger}} truth… if the Company cannot live on truth, <b>then</b> <b>let</b> her go.|$|R
+2500|$|... and <b>then</b> <b>letting</b> x = 2t + 1 and y = 2s, {{we get the}} Diophantine {{equation}} ...|$|R
+2500|$|Suppose [...] <b>Then</b> <b>letting</b> [...] a bijection, we have [...] clearly {{demonstrates}} {{the failure of}} Freiling's axiom.|$|R
+60|$|Raym. <b>Then</b> <b>let</b> her be divorced: we'll {{be content}} With that poor scanty justice; let her part.|$|R
+60|$|Mor. <b>Then</b> <b>let</b> {{me follow}} my flesh and blood, and keep to {{yourself}} {{your life and}} soul.|$|R
+5000|$|... (d) Perry <b>then</b> <b>let</b> {{fly from}} 15 ft {{and made the}} shot to put the Suns ahead.|$|R
+5000|$|Suppose [...] <b>Then</b> <b>letting</b> [...] a bijection, we have [...] clearly {{demonstrates}} {{the failure of}} Freiling's axiom.|$|R
+5000|$|Otherwise, {{pick one}} nearest {{neighbor}} randomly. If the neighboring site is S, <b>then</b> <b>let</b> it become I.|$|R
+5000|$|... now <b>then,</b> <b>let's</b> go out / {{to enjoy}} the snow... until / I slip and fall! 1688 ...|$|R

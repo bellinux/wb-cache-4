@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|The highest {{absolute}} value of individual distortion affecting the significant instants of a <b>start-stop</b> <b>modulation.</b>|$|E
+50|$|The {{degree of}} {{distortion}} of a <b>start-stop</b> <b>modulation</b> (or demodulation) is usually expressed as a percentage. Distinction can be made between the degree of late (positive) distortion {{and the degree of}} early (negative) distortion.|$|E
+

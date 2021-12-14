@@ -1,0 +1,37 @@
+4666|10000|Public
+5|$|Otherwise, if e is an lvalue, decltype(e) is T&, where <b>T</b> <b>is</b> <b>the</b> type of e; if e is an xvalue, {{the result}} is T&&; otherwise, e is a prvalue and {{the result is}} T.|$|E
+25|$|<b>T</b> <b>is</b> <b>the</b> {{transmittance}} of that material.|$|E
+25|$|<b>T</b> <b>is</b> <b>the</b> {{wave period}} (seconds).|$|E
+5000|$|... where <b>T</b> o <b>is</b> <b>the</b> channel total outage time, <b>T</b> s <b>is</b> <b>the</b> channel total {{scheduled}} time, and <b>T</b> a <b>is</b> <b>the</b> channel total available time.|$|R
+50|$|<b>Ted</b> <b>is</b> <b>the</b> {{brother of}} Aimé Lavie.|$|R
+50|$|<b>The</b> sets in <b>T</b> <b>are</b> <b>the</b> closed sets.|$|R
+25|$|The {{doubling}} time <b>T</b> <b>is</b> <b>the</b> {{time it takes}} to double.|$|E
+25|$|<b>T</b> <b>is</b> <b>the</b> {{temperature}} {{of the body in}} kelvins.|$|E
+25|$|<b>T</b> <b>is</b> <b>the</b> time {{designator}} that {{precedes the}} time {{components of the}} representation.|$|E
+50|$|<b>Ted</b> <b>is</b> <b>the</b> {{brother of}} Jack Sherman and Bill Sherman.|$|R
+5000|$|Circuit {{reliability}} (also time availability) (CiR) <b>is</b> <b>the</b> {{percentage of}} time an electronic circuit was available {{for use in a}} specified period of scheduled availability. Circuit reliability is given by where <b>T</b> o <b>is</b> <b>the</b> circuit total outage time, <b>Ts</b> <b>is</b> <b>the</b> circuit total scheduled time, and <b>T</b> a <b>is</b> <b>the</b> circuit total available time.|$|R
+5000|$|... where P and <b>T</b> <b>are</b> <b>the</b> space {{inversion}} {{and time}} reversal operators: ...|$|R
+25|$|Where: <b>T</b> <b>is</b> <b>the</b> unit time, or dot {{duration}} in milliseconds, and W is {{the speed}} in wpm.|$|E
+25|$|Draft (d) or (<b>T)</b> <b>is</b> <b>the</b> {{vertical}} {{distance from the}} bottom of the keel to the waterline.|$|E
+25|$|<b>T</b> <b>is</b> <b>the</b> {{unit vector}} tangent to the curve, {{pointing}} {{in the direction}} of motion.|$|E
+25|$|<b>The</b> 5th <b>Test</b> <b>was</b> <b>the</b> 200th live England <b>Test</b> {{match to}} <b>be</b> shown on Sky Sports.|$|R
+30|$|Set Ψ=λ^ 1 /n <b>T,</b> and <b>T</b> <b>be</b> <b>the</b> {{same as in}} (2.5).|$|R
+30|$|Let <b>T</b> <b>be</b> <b>the</b> set of {{prohibited}} moves, {{known as}} the Tabu list.|$|R
+25|$|In contrast, the Lebesgue {{measure of}} the set T of all real {{transcendental}} numbers is infinite (since <b>T</b> <b>is</b> <b>the</b> complement of a null set).|$|E
+25|$|Where <b>T</b> <b>is</b> <b>the</b> time of {{the period}} of oscillation, m is {{the mass of the}} slinky and k is the spring {{constant}} of the slinky.|$|E
+25|$|Notice each Pm is a finite-rank operator. Similar {{reasoning}} {{shows that}} if T is compact, then <b>T</b> <b>is</b> <b>the</b> uniform limit of some sequence of finite-rank operators.|$|E
+30|$|Let <b>T</b> <b>be</b> <b>the</b> cone preserving, {{completely}} continuous operator {{that was}} defined by (2.16).|$|R
+30|$|<b>Ts</b> <b>is</b> <b>the</b> system time (absolute time) {{at which}} the signal left the T-DMB transmitter.|$|R
+50|$|The CPT or Common Proficiency <b>Test</b> <b>is</b> <b>the</b> {{first level}} of Chartered Accountancy {{examinations}} in India.|$|R
+25|$|With these definitions, the resolvent set of <b>T</b> <b>is</b> <b>the</b> set of all complex numbers ζ {{such that}} Rζ exists and is bounded. This set often is denoted as ρ(T). The {{spectrum}} of <b>T</b> <b>is</b> <b>the</b> set of all complex numbers ζ such that Rζ fails to exist or is unbounded. Often {{the spectrum of}} T is denoted by σ(T). The function Rζ for all ζ in ρ(T) (that is, wherever Rζ exists as a bounded operator) is called the resolvent of T. The spectrum of T is therefore the complement of the resolvent set of T in the complex plane. Every eigenvalue of T belongs to σ(T), but σ(T) may contain non-eigenvalues.|$|E
+25|$|A {{more precise}} result {{is true for}} the C*-algebra of all bounded linear {{operators}} on a Hilbert space: If T is such an operator and ||T|| < 1nbsp&minus&nbsp&2/n for some integer n > 2, then <b>T</b> <b>is</b> <b>the</b> mean of n unitary operators.|$|E
+25|$|In {{the formula}} above, <b>T</b> <b>is</b> <b>the</b> {{classical}} period of either orbit n or orbit m, since {{the difference between}} them is higher order in h. But for n and m small, or if n − m is large, the frequencies are not integer multiples of any single frequency.|$|E
+5000|$|Let S, <b>T</b> <b>be</b> <b>the</b> intersections of OA and sphere{A, a}, with S', T' their inverses.|$|R
+2500|$|Let <b>T</b> <b>be</b> <b>the</b> time {{required}} for the light to travel from point Q to point P.|$|R
+3000|$|... (called weights), let <b>T</b> <b>be</b> <b>the</b> {{bilateral}} weighted shift on {{an infinite}} dimensional Hilbert space operator [...]...|$|R
+25|$|Behavioral {{economics}} {{has also}} been applied to intertemporal choice. Intertemporal choice is defined as making a decision and having the effects of such decision happening in a different time. Intertemporal choice behavior is largely inconsistent, as exemplified by George Ainslie's hyperbolic discounting—one of the prominently studied observations—and further developed by David Laibson, Ted O'Donoghue, and Matthew Rabin. Hyperbolic discounting describes the tendency to discount outcomes {{in the near future}} more than for outcomes in the far future. This pattern of discounting is dynamically inconsistent (or time-inconsistent), and therefore inconsistent with basic models of rational choice, since the rate of discount between time t and t+1 will be low at time t-1 when <b>t</b> <b>is</b> <b>the</b> near future, but high at time t when <b>t</b> <b>is</b> <b>the</b> present and time t+1 is the near future.|$|E
+25|$|Blakley's {{scheme is}} less space-efficient than Shamir's; while Shamir's shares are each only {{as large as}} the {{original}} secret, Blakley's shares are t times larger, where <b>t</b> <b>is</b> <b>the</b> threshold number of players. Blakley's scheme can be tightened by adding restrictions on which planes are usable as shares. The resulting scheme is equivalent to Shamir's polynomial system.|$|E
+25|$|In other dimensions, the {{constant}} B changes, {{but the same}} constant appears both in the t flow and in the coupling flow. The {{reason is that the}} derivative with respect to t of the closed loop with a single vertex is a closed loop with two vertices. This means that the only difference between the scaling of the coupling and the <b>t</b> <b>is</b> <b>the</b> combinatorial factors from joining and splitting.|$|E
+50|$|Bruce Slesinger, {{better known}} by his stage name <b>Ted,</b> <b>was</b> <b>the</b> first drummer for the Dead Kennedys.|$|R
+5000|$|Let [...] and <b>t</b> <b>be</b> <b>the</b> {{times the}} body takes to fall along Mm and Ce respectively.|$|R
+5000|$|Let <b>T</b> <b>be</b> <b>the</b> time {{required}} for the light to travel from point Q to point P.|$|R

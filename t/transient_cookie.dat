@@ -1,0 +1,4 @@
+2|0|Public
+50|$|A session cookie, {{also known}} as an in-memory cookie or <b>transient</b> <b>cookie,</b> exists only in {{temporary}} memory while the user navigates the website.Web browsers normally delete session cookies when the user closes the browser. Unlike other cookies, session cookies {{do not have an}} expiration date assigned to them, which is how the browser knows to treat them as session cookies.|$|E
+40|$|We {{consider}} a one-dimensional <b>transient</b> <b>cookie</b> random walk. It is known {{from a previous}} paper that a cookie random walk (X_n) has positive or zero speed according to some positive parameter α > 1 or < 1. In this article, we give the exact {{rate of growth of}} (X_n) in the zero speed regime, namely: for 0 <α < 1, X_n/n^α+ 1 / 2 converges in law to a Mittag-Leffler distribution whereas for α= 1, X_n(n) /n converges in probability to some positive constant...|$|E
+

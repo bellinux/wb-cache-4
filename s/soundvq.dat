@@ -1,0 +1,5 @@
+3|0|Public
+50|$|Note {{that some}} commercialized {{products}} such as Metasound (Voxware), <b>SoundVQ</b> (Yamaha), and SolidAudio (Hagiwara) are also based on the TwinVQ technology, but the configurations {{are different from the}} MPEG-4 TwinVQ.|$|E
+50|$|Yamaha {{released}} an English player application called <b>SoundVQ.</b> Several third party players also supported the format including WinAmp (with the appropriate input plugin) and K-Jöfol (which supported the format natively).|$|E
+5000|$|A {{proprietary}} {{audio compression}} format called TwinVQ {{was developed by}} Nippon Telegraph and Telephone Corporation (NTT) (in NTT's Human Interface Laboratories) and marketed by Yamaha under the name <b>SoundVQ.</b> The NTT also offered a TwinVQ demonstration software for non-commercial purposes - NTT TwinVQ Encoder and TwinVQ Player, encoder API, decoder API and header file format. The filename extension is [...]vqf.|$|E
+

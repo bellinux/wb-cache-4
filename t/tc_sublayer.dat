@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The PAF {{is located}} in the Physical Coding Sublayer (PCS), between the Media Access Control (MAC)-PHY Rate Matching {{function}} and the Transmission Convergence (<b>TC)</b> <b>sublayer.</b> It interfaces with the PMEs across the λ-interface, and to the MAC-PHY Rate Matching function using an abstract interface.|$|E
+

@@ -1,0 +1,3 @@
+2|0|Public
+40|$|Abstract. World Wide Web {{search engines}} {{typically}} return thousands of {{results to the}} users. To avoid users browsing through the whole list of results, search engines use ranking algorithms to order the list according to predefined criteria. In this paper, we present <b>Toogle,</b> a front-end to the Google search engine for both desktop browsers and mobile phones. For a given search query, <b>Toogle</b> first ranks results using Google’s algorithm and, as the user browses through the result list, uses machine learning techniques to infer a model of her search goal and to adapt accordingly {{the order in which}} the results are presented. We describe preliminary experimental results that show the effectiveness of <b>Toogle.</b> ...|$|E
+

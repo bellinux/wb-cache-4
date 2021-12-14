@@ -1,0 +1,7 @@
+5|1|Public
+5000|$|... #Caption: Miniaturization has {{resulted}} in smaller sizes than the above <b>SLT</b> <b>Card</b> Frame ...|$|E
+5000|$|... #Caption: A double width <b>SLT</b> <b>card.</b> The square metal cans {{contain the}} hybrid circuits.|$|E
+50|$|Solid Logic Technology (SLT) was IBM's {{method for}} {{packaging}} electronic circuitry introduced in 1964 with the IBM System/360 series and related machines. IBM chose to design custom hybrid circuits using discrete, flip chip-mounted, glass-encapsulated transistors and diodes, with silk screened resistors on a ceramic substrate, forming an SLT module. The circuits were either encapsulated in plastic or {{covered with a}} metal lid. Several of these SLT modules (20 in {{the image on the}} right) were then mounted on a small multi-layer printed circuit board to make an <b>SLT</b> <b>card.</b> Each <b>SLT</b> <b>card</b> had a socket on one edge that plugged into pins on the computer's backplane (the exact reverse of how most other companies' modules were mounted).|$|E
+50|$|Circuit boards {{containing}} monolithic ICs and/or hybrid ICs, such as IBM <b>SLT</b> <b>cards.</b>|$|R
+50|$|Monolithic System Technology (MST) {{increased}} packaging {{density and}} circuit performance by replacing discrete transistors and diodes with {{one to four}} monolithic integrated circuits (resistors now external from the package on the module). Each MST chip holds about 5 circuits and is the approx equivalent of an <b>SLT</b> <b>card.</b> Circuits used NPN transistors.|$|E
+

@@ -1,0 +1,37 @@
+0|510|Public
+40|$|The {{model of}} passage of vessels through {{a section of}} the {{waterway}} is considered, which independently determines the order of passage of vessels with limited capacity of sections of the track. Such a model will consist of a number of standard algorithmic networks. When composing the schedule in the model, the following preference rules were used: first-come-first-served (that is, if the ship occupied the workplace, this decision is not canceled); The rule of the shortest operation; For the swamps the priority of <b>vessels</b> <b>going</b> <b>downstream</b> (the direction of flow from the source to the drain). An algorithmic network that implements the search for an acceptable schedule must implement the following for conflicting operations: the operation that has started is not interrupted; If several operations simultaneously claim for one workplace (port, reach) and their number is greater than its throughput, then the conflict resolution is carried out in accordance with predefined preference rules or based on the user's decision; If the operation is waiting for the release of the workplace, it does not occupy the resource; The resource is returned immediately after the operation is completed. The considered design of algorithmic networks allows to resolve the conflict, with a simultaneous resource request, to take the resource once, remember that it was received and return it {{after the end of the}} operation, then the resource receives a contra-controlling operation for execution. However, the use of this design introduces redundancy into the model, even if it is used only for conflicting operations. The model is presented in the language of algorithmic networks and is implemented in the system of modeling automation KOGNITRON...|$|R
+500|$|Davis Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+500|$|Tomhicken Creek, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+500|$|Tenmile Run, next {{tributary}} of the Susquehanna <b>going</b> <b>downstream</b> ...|$|R
+2500|$|Furnace Run, next {{tributary}} of Shamokin Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Field Brook, next {{tributary}} of Tunkhannock Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Fisher Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Davis Hollow, next {{tributary}} of Fishing Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Davis Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Deerlick Run, next {{tributary}} of Fishing Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Furnace Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Fallow Hollow, next {{tributary}} of Coles Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Cranberry Creek, next {{tributary}} of Stony Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Cranberry Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Butternut Run, next {{tributary}} of Bowman Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Carbon Run, next {{tributary}} of Shamokin Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Becker Brook, next {{tributary}} of Mehoopany Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Bennys Run, next {{tributary}} of Shamokin Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Benson Hollow, next {{tributary}} of Bowman Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Bowman Hollow, next {{tributary}} of Mehoopany Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Hettesheimer Run, next {{tributary}} of Bowman Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Huntsville Creek, next {{tributary}} of Toby Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Tenmile Run, next {{tributary}} of the Susquehanna <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Somer Brook, next {{tributary}} of Mehoopany Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Stranger Hollow, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Sugarloaf Creek, next {{tributary}} of Tomhicken Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Susquehecka Creek, next {{tributary}} of Middle Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Swale Brook, next {{tributary}} of Tunkhannock Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Leach Creek, next {{tributary}} of Leggetts Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Leonard Creek, next {{tributary}} of Bowman Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Karnes Hollow, next {{tributary}} of Fishing Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Kasson Brook, next {{tributary}} of Mehoopany Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Kellum Creek, next {{tributary}} of Roaring Brook <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Kingsbury Brook, next {{tributary}} of Huntington Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Klingermans Run, next {{tributary}} of Catawissa Creek <b>going</b> <b>downstream</b> ...|$|R
+5000|$|Millard Creek, next {{tributary}} of Tunkhannock Creek <b>going</b> <b>downstream</b> ...|$|R

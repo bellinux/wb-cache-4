@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper motivates and {{presents}} the Topic-based Vector Space Model (TVSM), a new vector-based approach for document comparison. The approach does not assume independence between terms {{and it is}} flexible regarding the specification of term-similarities. <b>Stop-word-list,</b> stemming and thesaurus can be fully integrated into the model. This paper shows further how the TVSM can be fully implemented {{within the context of}} relational databases. This facilitates the use of this approach by generic applications. At the end short comparisons with other vector-based approaches namely the Vector Space Model (VSM) and the Generalized Vector Space Model (GVSM) are presented. 1...|$|E
+

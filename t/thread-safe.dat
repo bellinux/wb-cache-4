@@ -1,0 +1,37 @@
+197|0|Public
+25|$|URLMon.dll is {{responsible}} for MIME-type handling and download of web content, and provides a <b>thread-safe</b> wrapper around WinInet.dll and other protocol implementations.|$|E
+50|$|We {{conclude}} {{this section}} with {{an example of}} a <b>thread-safe</b> class using a blocking monitor that implements a bounded, <b>thread-safe</b> stack.|$|E
+50|$|Thread {{safety is}} a {{computer}} programming concept applicable to multi-threaded code. <b>Thread-safe</b> code only manipulates shared data structures {{in a manner that}} ensures that all threads behave properly and fulfil their design specifications without unintended interaction. There are various strategies for making <b>thread-safe</b> data structures.|$|E
+50|$|<b>Thread-safe</b> memory heap {{and memory}} pool allocators.|$|E
+5000|$|<b>Thread-safe</b> {{implementation}} of strings, iostreams, and locales ...|$|E
+50|$|This {{definition}} of reentrancy {{differs from that}} of thread-safety in multi-threaded environments. A reentrant subroutine can achieve thread-safety, but being reentrant alone might not be sufficient to be <b>thread-safe</b> in all situations. Conversely, <b>thread-safe</b> code does not necessarily have to be reentrant (see below for examples).|$|E
+50|$|Software {{libraries}} {{can provide}} certain thread-safety guarantees. For example, concurrent reads might be {{guaranteed to be}} <b>thread-safe,</b> but concurrent writes might not be. Whether a program using such a library is <b>thread-safe</b> depends on whether it uses the library {{in a manner consistent}} with those guarantees.|$|E
+5000|$|Initialization-on-demand holder idiom for a <b>thread-safe</b> {{replacement}} in Java.|$|E
+50|$|Compiling libcwd {{results in}} two libraries: {{one that is}} <b>thread-safe</b> (libcwd_r) and a {{slightly}} faster version (libcwd) without thread support. The <b>thread-safe</b> version depends on even more architecture specific details (namely, the GNU C library). As a result, a full featured libcwd is basically only suitable for development on Linux platforms.|$|E
+5000|$|... easy {{integration}} of C libraries that usually are not <b>thread-safe,</b> ...|$|E
+50|$|C++: vdk-signals - <b>thread-safe,</b> type-safe, {{written in}} C++11 with atomic variables.|$|E
+5000|$|Dejavu — {{a public}} domain software, <b>thread-safe</b> ORM for Python {{applications}} ...|$|E
+50|$|In the {{following}} piece of C code, the function is <b>thread-safe,</b> but not reentrant.|$|E
+5000|$|In the {{following}} piece of C code, the function is <b>thread-safe,</b> but not reentrant: ...|$|E
+50|$|Compute Capability: 1.1 has {{support for}} Atomic functions, {{which are used}} to write <b>thread-safe</b> programs.|$|E
+50|$|OpenWire is {{designed}} as <b>thread-safe</b> and {{well suited for}} multi-threading VCL and FireMonkey component development.|$|E
+5000|$|As {{a simple}} example, {{consider}} a <b>thread-safe</b> object for performing transactions on a bank account: ...|$|E
+5000|$|Implemented showing all {{synchronization}} (removing {{the assumption}} of a <b>thread-safe</b> class and showing the mutex): ...|$|E
+5000|$|Static memory {{management}} supports thread suspend/resume when it allocates/frees a memory block and <b>thread-safe</b> dynamic heap management; ...|$|E
+5000|$|Use a <b>thread-safe</b> shared {{counter that}} is {{incremental}} {{at the start}} of a transaction as the timestamp.|$|E
+50|$|While {{a thread}} is {{executing}} {{a method of}} a <b>thread-safe</b> object, {{it is said to}} occupy the object, by holding its mutex (lock). <b>Thread-safe</b> objects are implemented to enforce that at each point in time, at most one thread may occupy the object. The lock, which is initially unlocked, is locked at the start of each public method, and is unlocked at each return from each public method.|$|E
+5000|$|FAstMat is a <b>thread-safe</b> general tensor algebra library {{written in}} C++ and {{specially}} designed for FEM/FVM/BEM/FDM element/edge wise computations.|$|E
+5000|$|URLMon.dll is {{responsible}} for MIME-type handling and download of web content, and provides a <b>thread-safe</b> wrapper around WinInet.dll and other protocol implementations.|$|E
+50|$|It {{also has}} a goal of being <b>thread-safe</b> {{in order to be}} able to embed more than one {{interpreter}} in a single application.|$|E
+50|$|The libcurl {{library is}} free, <b>thread-safe</b> and IPv6 compatible. Bindings are {{available}} for more than 40 languages, including C/C++, Java, PHP and Python.|$|E
+5000|$|A <b>thread-safe</b> {{generator}} {{of unique}} serial numbers (though, {{like many other}} Lisp dialects, Clojure has a built-in [...] function that it uses internally): ...|$|E
+5000|$|Because Ruby isn't <b>thread-safe,</b> it isn't {{possible}} to dispatch multiple native threads to execute RubyCocoa code. Ruby's emulated threads, however, can be used.|$|E
+50|$|While not all VCL {{components}} are <b>thread-safe,</b> VCL supports multi-threading too. One {{example is the}} built in multi-threading support of the OpenWire VCL library.|$|E
+50|$|A Ctrie {{implementation}} for Scala 2.9.x {{is available}} on GitHub. It is a mutable <b>thread-safe</b> implementation which ensures progress and supports lock-free, linearizable, O(1) snapshots.|$|E
+50|$|The mcount {{function}} {{may not be}} <b>thread-safe</b> in some implementations, so multi-threaded application profiles can be incorrect (typically it only profiles {{the main}} thread of application).|$|E
+50|$|The {{developers}} of libcurl have criticised libwww as being not as portable, not <b>thread-safe</b> and lacking several HTTP authentication types.Neither libcurl nor libwww are lightweight enough for some projects.|$|E
+5000|$|The core {{database}} engine files {{consist of a}} set of DLLs that are fully re-entrant and <b>thread-safe.</b> Included with BDE are a set of supplemental tools and examples with sample code.|$|E
+50|$|WebObjects and Enterprise Objects Framework provide <b>thread-safe</b> APIs. This {{means that}} you can write a multithreaded WebObjects {{application}} where you couldn't before. This enables applications that can provide user feedback for long-running requests.|$|E
+5000|$|This is {{an example}} of a [...] {{function}} that fails to be reentrant (as well as failing to be <b>thread-safe).</b> As such, it should not have been used in the interrupt service routine : ...|$|E
+50|$|Calculations {{and data}} {{validation}} {{have to be}} implemented server-side only. Several design patterns aim for minimizing memory needs. Renderers are implemented <b>thread-safe</b> {{and can be used}} simultaneously with multiple form instances of a single form definition.|$|E
+50|$|If {{the pool}} is used by {{multiple}} threads, it may need the means to prevent parallel threads from grabbing and trying to reuse the same object in parallel. This is not necessary if the pooled objects are immutable or otherwise <b>thread-safe.</b>|$|E

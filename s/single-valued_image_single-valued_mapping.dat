@@ -1,0 +1,37 @@
+0|285|Public
+30|$|For a <b>single-valued</b> <b>mapping,</b> we {{obtain the}} {{following}} corollary.|$|R
+30|$|A <b>single-valued</b> <b>mapping</b> F:D(F) = E → E^* {{is said to}} be hemi-continuous [1] if w-_t→ 0 F(x+ty) = Fx, for any x,y∈ E. A <b>single-valued</b> <b>mapping</b> F:D(F) = E → E^* {{is said to be}} demi-continuous [1] if w-_n→∞Fx_n = Fx, for any {{sequence}} {x_n} strongly convergent to x in E.|$|R
+30|$|When Γ is a <b>single-valued</b> <b>mapping,</b> then we {{have the}} {{following}} result.|$|R
+30|$|The direct {{consequence}} of Theorem  3.1 for <b>single-valued</b> <b>maps</b> is the following.|$|R
+30|$|Our {{final result}} relies on Lemma  3.3 (nonlinear {{alternative}} for <b>single-valued</b> <b>maps).</b>|$|R
+30|$|Then T is a <b>single-valued</b> <b>mapping</b> {{satisfying}} condition (C), but T is not nonexpansive.|$|R
+30|$|The {{following}} corollary on a <b>single-valued</b> <b>mapping</b> f is {{a direct}} consequence of Theorem  3.1.|$|R
+3000|$|... is a <b>single-valued</b> <b>mapping,</b> then Theorem  2.1 and Theorem  2.5 {{partially}} generalize [[22], Theorem  3.2].|$|R
+3000|$|... is {{a proper}} l.s.c. and bounded below {{function}} unless specified otherwise. In this section, mainly motivated by fixed point theorems (for a <b>single-valued</b> <b>mapping)</b> in [10, 11, 14 – 16], we present two similar results which are applicable to multivalued mapping cases. The following theorem established by Suzuki's in [11] {{plays an important}} role in extending existing results from a <b>single-valued</b> <b>mapping</b> to a multivalued mapping.|$|R
+30|$|The {{following}} {{result is}} obtained directly from Theorem  3.3 in case that T is a <b>single-valued</b> <b>mapping.</b>|$|R
+3000|$|... in particular, a set-valued {{dynamic system}} {{includes}} the usual dynamic system where T is a <b>single-valued</b> <b>map.</b>|$|R
+3000|$|In {{a similar}} way, we can define {{strictly}} η-accretivity and strongly η-accretivity of the <b>single-valued</b> <b>mapping</b> [...]...|$|R
+30|$|Observe that if φ is a <b>single-valued</b> <b>mapping,</b> {{then the}} {{essentiality}} {{in the sense}} of Definition  5.1 coincides with the one presented in [1], Definition  2.1. Concretely, an isolated fixed point x_ 0 of a <b>single-valued</b> <b>mapping</b> f X→ X is essential if, for every open ε-neighborhood O_ε(x_ 0) of x_ 0, there exists δ=δ(ε)> 0 such that any map g X→ X which is ‘δ-near’ to f, i.e.|$|R
+30|$|Definition  2.5 {{includes}} Definition  2.3 as {{a special}} case. In fact, when F is a <b>single-valued</b> <b>mapping,</b> V=R, and Q=(-∞, 0], Definition  2.5 coincides with Definition  2.3. Also Definition  2.5 generalizes Definition  3.1 of Zhou and Huang [23] in the following aspects: (1) from a <b>single-valued</b> <b>mapping</b> to a set-valued mapping; (2) from the convex cone in Euclidean spaces to the convex cone in Hausdorff topological vector spaces.|$|R
+3000|$|... are IT-commuting but {{the reverse}} {{implication}} {{is not true}} [[32], p. 2]. However, a pair of <b>single-valued</b> <b>maps</b> [...]...|$|R
+30|$|If G is <b>single-valued</b> <b>mapping,</b> then G is type I (-C)-lower semicontinuous ⇔ G is type II C-lower semicontinuous.|$|R
+30|$|Reich [19] {{generalized}} the Banach {{fixed point}} theorem for <b>single-valued</b> <b>maps</b> and multi-valued maps {{as the two}} following theorems.|$|R
+3000|$|... a <b>single-valued</b> <b>mapping</b> A {{is said to}} be {{a strong}} {{comparison}} mapping, if A is a comparison mapping, and [...]...|$|R
+3000|$|... be a set-valued mapping. If Γ {{is lower}} ≽-preserving and has lower bound ≽-closed values, then the <b>single-valued</b> <b>mapping</b> [...]...|$|R
+3000|$|... is a <b>single-valued</b> <b>mapping</b> on a b-metric space, we {{have the}} {{following}} corollary (it {{is a consequence of}} Theorem 2).|$|R
+3000|$|... is the {{generalized}} projection from E onto C and S is relatively nonexpansive <b>single-valued</b> <b>mapping.</b> They {{proved that the}} sequence [...]...|$|R
+3000|$|... {{to denote}} {{the set of}} zero points of A. For an {{accretive}} operator A, we can define a <b>single-valued</b> <b>mapping</b> [...]...|$|R
+30|$|We denote by → and ⇀ {{strong and}} weak convergence, respectively. Let A_ 0 : V→ V^∗ be a {{nonlinear}} <b>single-valued</b> <b>mapping.</b>|$|R
+3000|$|... {{to denote}} {{the set of}} zero points of A. For an {{accretive}} operator A, we can define a nonexpansive <b>single-valued</b> <b>mapping</b> [...]...|$|R
+30|$|In {{the case}} of s_n= 0, for all n∈N, a <b>single-valued</b> <b>mapping</b> t is called an {{asymptotically}} nonexpansive mapping. In particular, if k_n= 1 and s_n= 0, for all n∈N, a <b>single-valued</b> <b>mapping</b> t reduce to a nonexpansive mapping. The fixed point property for generalized asymptotically nonexpansive single-valued mappings {{can be found in}} [1]. The following example shows that the fixed point set of a generalized asymptotically nonexpansive mapping is not necessarily closed; see also [2].|$|R
+3000|$|... in particular, a set-valued {{dynamic system}} {{includes}} the usual dynamic system where T is a <b>single-valued</b> <b>map.</b> We {{say that a}} map [...]...|$|R
+30|$|In {{the next}} result, we {{make use of}} Leray–Schauder {{nonlinear}} alternative for <b>single-valued</b> <b>maps</b> to develop existence criteria for solutions of problem (1.1).|$|R
+30|$|In this section, {{we study}} {{invariant}} approximation results for nonlinear <b>single-valued</b> <b>mapping</b> and multi-valued mapping as applications of main results in Section  2.|$|R
+30|$|A <b>single-valued</b> <b>mapping</b> f : T_ 0 ×R^n→R^n is Δ-Carathéodory if {{and only}} if F={f} is Δ-Carathéodory in the sense of Definition  2.8.|$|R
+3000|$|..., we say F {{is lower}} {{semi-continuous}} on K. If F is a <b>single-valued</b> <b>mapping,</b> both the definitions above provide the ordinary definition of continuity.|$|R
+30|$|Afterward, Asl et al. [6] {{introduced}} {{the concept of}} an α_*-admissible mapping which is the multi-valued version of α-admissible <b>single-valued</b> <b>mapping</b> provided in [5].|$|R
+3000|$|... be a fuzzy metric {{space and}} T a <b>single-valued</b> <b>mapping</b> from X into itself. T {{is said to}} satisfy nonzero {{property}} if there exists [...]...|$|R
+30|$|For given posets (X,≼^X) and (U,≼^U), a <b>single-valued</b> <b>mapping</b> F from (X,≼^X) into (U,≼^U) {{is said to}} be order {{increasing}} if F(x)≼^U F(y) whenever x≼^Xy.|$|R
+30|$|By using Theorems 2.4 and 2.6, in this section, we {{will provide}} some largest and least fixed-point theorems for a <b>single-valued</b> <b>mapping</b> on semi-metric space.|$|R
+3000|$|Definition 2.2 Let X and Y be Banach {{spaces and}} L be a <b>single-valued</b> <b>mapping</b> from X into Y. L is called demicontinuous if [...]...|$|R
+30|$|Now we {{prove the}} {{existence}} of solutions for problem (1.1) via the Leray-Schauder alternative. Let us first recall the nonlinear alternative for <b>single-valued</b> <b>maps</b> [23].|$|R

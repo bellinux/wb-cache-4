@@ -1,0 +1,4 @@
+1|2|Public
+50|$|Each line of {{a report}} was sent from the 315 to the printer and loaded into a buffer. As the print drum spun, a glass <b>timing</b> <b>disc</b> on one end would {{indicate}} to the internal logic that a character was in position to be printed. All of the “A” characters in the buffer would trigger the appropriate hammer to fire. The hammer would force the paper up against the ribbon, and hit the “A” character on the spinning drum for {{its position in the}} line. This would continue for one revolution of the drum printing.|$|E
+50|$|The {{amount of}} energy {{represented}} by one revolution of the disc is denoted by the symbol Kh which is given in units of watt-hours per revolution. The value 7.2 is commonly seen. Using the value of Kh one can determine their power consumption {{at any given time}} by <b>timing</b> the <b>disc</b> with a stopwatch.|$|R
+

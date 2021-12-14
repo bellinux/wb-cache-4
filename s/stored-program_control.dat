@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|Printer {{operation}} under <b>stored-program</b> <b>control</b> through {{automatic interrupt}} system.|$|E
+40|$|Mariner 10 in {{its mission}} to Venus and Mercury used an onboard control {{computer}} with a 512 -word memory. An outline is presented of the general philosophy adopted {{with respect to the}} utilization of the available memory and a description is given of the actual in-flight operation of the machine. The onboard computer system provided automatic <b>stored-program</b> sequence <b>control</b> of all spacecraft scientific, engineering, and propulsive maneuver operations. The system consisted of the special purpose digital computer and a fixed hard-wired sequencer. Attention is given to the programming architecture, aspects of mission design, and computer performance...|$|R
+

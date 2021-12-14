@@ -1,0 +1,37 @@
+2859|10000|Public
+5000|$|... #Subtitle level 3: <b>Tool</b> <b>support</b> for domain-specific {{language}} languages ...|$|E
+50|$|Many General-Purpose Modeling {{languages}} {{already have}} <b>tool</b> <b>support</b> {{available in the}} form of CASE tools. Domain-specific language languages tend to have too small a market size to support the construction of a bespoke CASE tool from scratch. Instead, most <b>tool</b> <b>support</b> for domain-specific language languages is built based on existing domain-specific language frameworks or through domain-specific language environments.|$|E
+50|$|Software {{development}} {{based on}} formal methods: Software <b>tool</b> <b>support</b> {{based on some}} mathematical formalism includes model checking, process algebras, and Petri nets. The Box Structure Method might be one such means of specifying and designing a software product. Verification that the design correctly implements the specification is performed through team review, often with software <b>tool</b> <b>support.</b>|$|E
+30|$|DM, RM and {{measurement}} processes {{have very few}} <b>tools</b> to <b>support</b> their activities {{when compared to other}} SPM areas. Only three <b>tools</b> <b>support</b> RM, three <b>tools</b> <b>support</b> measurement and two <b>tools</b> <b>support</b> DM. Researchers should focus more on these areas as they are inadequately <b>supported</b> by proper <b>tools.</b> RM should particularly attract tool builders’ attention. Controlling the risks in software projects in general (Bannerman 2008), and global software projects in particular (Persson et al. 2009), greatly contributes to project success.|$|R
+50|$|Microsoft {{has often}} been criticized {{for the lack of}} <b>tooling</b> <b>support</b> for T4 within the Visual Studio IDE, and relies on third parties namely Tangible Engineering and Clarius Consulting, however later {{revisions}} have included better <b>tooling</b> <b>support.</b>|$|R
+50|$|Address <b>tools</b> <b>support</b> Outlook calendars.|$|R
+50|$|The SOFA 2 system {{includes}} a component model, repository of components, runtime environment and <b>tool</b> <b>support.</b>|$|E
+5000|$|There {{is a need}} {{to provide}} {{additional}} sophisticated <b>tool</b> <b>support</b> to fully exploit integrated behavior tree models.|$|E
+5000|$|<b>Tool</b> <b>support</b> {{is needed}} to {{navigate}} the very large integrated behavior trees for systems that have {{hundreds or thousands of}} requirements.|$|E
+5000|$|Alcohol 120%'s image making <b>tool</b> <b>supports</b> the {{following}} formats: ...|$|R
+5000|$|Decision-making <b>tools</b> <b>supporting</b> {{the federal}} {{mobility}} and transport policy ...|$|R
+5000|$|... #Subtitle level 2: Network Management Software and <b>Tools</b> <b>Support</b> ...|$|R
+5000|$|Maildir, on {{the other}} hand, was {{designed}} {{to work in an}} NFS environment. [...] Maildir enjoys wider client, server, and <b>tool</b> <b>support</b> than MIX.|$|E
+5000|$|Sjaak Brinkkemper, Kalle Lyytinen and Richard J. Welke (eds.). Method engineering: {{principles}} of method construction and <b>tool</b> <b>support.</b> International Federation for Information Processing, 1996.|$|E
+50|$|<b>Tool</b> <b>support</b> {{for writing}} and {{debugging}} stored procedures {{is often not}} as good as for other programming languages, but this differs between vendors and languages.|$|E
+5000|$|Computer-aided {{software}} engineering (some of these <b>tools</b> <b>support</b> specific methodologies) ...|$|R
+40|$|This poster {{presents}} an innovative real-time Teleconsultation System for synchronized navigation {{of the pages}} of a web-based Oncological Electronic Medical Record, designed to provide clinicians a cooperative work <b>tool</b> <b>supporting</b> the oncologic patient management between different hospitals. The system embeds additional <b>tools</b> <b>supporting</b> the discussion: digital whiteboard, chat and a digital audio channel...|$|R
+2500|$|Parallels <b>Tools</b> <b>support</b> Xorg 1.7 in Fedora 12 virtual {{machines}} (experimental) ...|$|R
+5000|$|IEEE 1076-1993(also {{published}} with [...] ) Significant improvements {{resulting from}} {{several years of}} feedback. Probably {{the most widely used}} version with the greatest vendor <b>tool</b> <b>support.</b>|$|E
+5000|$|... {{identifies}} several {{criteria for}} judging {{solutions to the}} overlap problem: readability and maintainability, <b>tool</b> <b>support</b> and compatibility with XML, possible validation schemes, and ease of processing.|$|E
+50|$|Another {{approach}} is to design an entirely new markup language.These forego the <b>tool</b> <b>support</b> in existing languages for a less complicated semantic model and more convenient syntax.|$|E
+5000|$|Solid PDF <b>Tools</b> <b>supports</b> {{conversion}} {{from the}} following formats into PDF: ...|$|R
+5000|$|Some <b>tools</b> <b>supporting</b> {{the editing}} and/or {{analyses}} of feature models are: ...|$|R
+5000|$|On large teams (say 30 or more) without {{adequate}} <b>tooling</b> <b>support</b> ...|$|R
+5000|$|The {{process of}} {{requirements}} translation is very demanding. It {{is not possible}} to spend more than three or four hours in a day doing translation even with good <b>tool</b> <b>support.</b>|$|E
+50|$|A common {{misconception}} is that FI requires ASN.1 <b>tool</b> <b>support.</b> Although {{the formal}} specification uses ASN.1 notation, the standard includes Encoding Control Notation (ECN) and ASN.1 tools {{are not required}} by implementations.|$|E
+50|$|Unified Modeling Language (UML) is a {{general-purpose}} modeling {{language that}} is an industry standard for specifying software-intensive systems. UML 2.0, the current version, supports thirteen different diagram techniques and has widespread <b>tool</b> <b>support.</b>|$|E
+5000|$|Parallels <b>Tools</b> <b>support</b> Xorg 1.7 in Fedora 12 virtual {{machines}} (experimental) ...|$|R
+50|$|The OOSE tools {{have been}} {{replaced}} by <b>tools</b> <b>supporting</b> UML and RUP.|$|R
+5000|$|Arabeske {{is a free}} {{standalone}} <b>tool,</b> <b>supports</b> {{a subset}} of wallpaper groups.|$|R
+5000|$|... 7.0, November 2011. Includes {{performance}} and functional enhancements to the SCOOP parallel development facility, GUI library and <b>tool</b> <b>support</b> for ribbon interface structures, improved support for void-safe software development, {{and many other}} improvements.|$|E
+5000|$|Unified Modeling Language (UML) is a {{general-purpose}} modeling {{language that}} is an industry standard for specifying software-intensive systems. UML 2.0, the current version, supports thirteen different diagram techniques, and has widespread <b>tool</b> <b>support.</b>|$|E
+5000|$|Between 2000 and 2003, {{a number}} of changes {{introduced}} guidance from ongoing Rational field experience with iterative development, in addition to <b>tool</b> <b>support</b> for enacting RUP instances and for customization of the RUP framework. These changes included: ...|$|E
+5000|$|Development <b>Tooling</b> <b>Support</b> -- {{provides}} the supporting classes for developing OLA-enabled applications ...|$|R
+5000|$|Simulation123 - a <b>tool</b> <b>supporting</b> web-based {{simulation}} documentation, {{a category}} of web-based simulation ...|$|R
+50|$|Most UML <b>tools</b> <b>support</b> {{both the}} text writing and visual {{modeling}} of use cases.|$|R

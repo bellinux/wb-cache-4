@@ -1,0 +1,4 @@
+2|0|Public
+40|$|An {{analysis}} {{has been made}} of pulse dispersion in an optical fibre having a continuous radial variation of refractive index. Solutions are presented for <b>Selfoc</b> <b>fibre</b> showing the effects of mode and material dispersion and of group delay. The predicted dispersions range from very low values up to about 1 ns/km, depending on the launching conditions...|$|E
+40|$|An {{analysis}} is given of dispersion in an optical fibre waveguide having a continuous radial variation of refractive index using the scalar wave approximation. Solutions are presented {{for the particular}} case of <b>Selfoc</b> <b>fibre</b> taking into account mode dispersion, material dispersion and group delay. It is shown that for a correctly matched input Gaussian beam the pulse dispersion is small although in practice {{it is likely to}} be ~ 1 ns over a length of 1 km...|$|E
+

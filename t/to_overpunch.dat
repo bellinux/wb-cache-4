@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|Note: {{the binary}} {{conversions}} of the codepoints are often shown in reverse order, depending on (presumably) from which side one views the paper tape. Note further that the [...] "control" [...] characters were chosen {{so that they}} were either symmetric or in useful pairs so that inserting a tape [...] "upside down" [...] {{did not result in}} problems for the equipment and the resulting printout could be deciphered. Thus FIGS (11011), LTRS (11111) and space (00100) are invariant, while CR (00010) and LF (01000), generally used as a pair, are treated the same regardless of order by page printers. LTRS could also be used <b>to</b> <b>overpunch</b> characters to be deleted on a paper tape (much like DEL in 7-bit ASCII).|$|E
+

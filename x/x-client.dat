@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The X.Org Server, and any <b>x-client,</b> each run as {{distinct}} processes. On Unix/Linux, a process {{knows nothing about}} any other processes. For it to communicate with another process, it is completely and utterly reliant on the kernel to moderate the communication via available inter-process communication (IPC) mechanisms.Unix domain sockets are used to communicate with processes running on the same machine. Special socket function calls {{are part of the}} System Call Interface. Although Internet domain sockets can be used locally, Unix domain sockets are more efficient, since {{they do not have the}} protocol overhead (checksums, byte orders, etc.).|$|E
+

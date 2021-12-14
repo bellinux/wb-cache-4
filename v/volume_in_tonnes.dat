@@ -1,0 +1,37 @@
+1|10000|Public
+30|$|The {{decision}} {{variables are}} x_ij, y_j, and z_kj (i ∈ I, j∈ J, k ∈ K). x_ij indicates the transport <b>volume</b> <b>in</b> <b>tonnes</b> from source node i to production site j. The binary variable y_j indicates if a production site is in use y_j= 1 (referred to as open) or not y_j= 0. The binary variable z_jk indicates if production site j supplies customer location k. The TSCFLP {{is given by}} (1) to (11).|$|E
+30|$|This dataset {{contains}} {{a summary of}} fuel bunkered (as reported to Customs) per company, split by fuel type (HFO/MGO/lubrication oil) for the years 2006 to 2012, <b>in</b> <b>volume</b> (<b>tonnes)</b> and value (€). The source of this dataset is the Administration of Customs and Excise duties. While this data is more complete, it is also more aggregated, hence no details are available on ship types, individual bunkering volumes, etc.|$|R
+40|$|According to {{the recent}} mid term review of the EU white paper on transport, Short Sea Shipping in EU waters is {{expected}} to grow from 2000 to 2020 at a rate of 59 % <b>in</b> <b>volume</b> (metric <b>tonnes).</b> If we consider that the overall expected growth in freight exchanges is of 50 % (also <b>in</b> <b>volume),</b> sea transport {{is one of the most}} feasible ways to reduce traffic congestion on European roads. High speed vessels are a possible way to compete with road transport in certain traffics; however these ships are highly affected by heavy weather. This paper is going to analyse the weather influence on several short sea shipping Mediterranean routes to be served by fast ships...|$|R
+50|$|In most of Europe, yield is {{measured}} in hectoliters per hectare, i.e., by the <b>volume</b> of wine. <b>In</b> most of the New World, yield {{is measured}} <b>in</b> <b>tonnes</b> per hectare (or short tons per acre in the USA) - i.e. by mass of grapes produced per unit area.|$|R
+25|$|For through freight trains, {{the first}} year {{prediction}} was 7.2million gross tonnes; the actual 1995 figure was 1.3M gross tonnes. Through freight <b>volumes</b> peaked <b>in</b> 1998 at 3.1M tonnes. This fell back to 1.21M <b>tonnes</b> <b>in</b> 2007, increasing slightly to 1.24M <b>tonnes</b> <b>in</b> 2008. Together with that carried on freight shuttles, freight growth has occurred since opening, with 6.4M <b>tonnes</b> carried <b>in</b> 1995, 18.4M <b>tonnes</b> recorded <b>in</b> 2003 and 19.6M <b>tonnes</b> <b>in</b> 2007. Numbers fell back {{in the wake of}} the 2008 fire.|$|R
+5000|$|Figures <b>in</b> <b>tonnes.</b> Source http://www.bgs.ac.uk/mineralsuk/mines/coal/occ/home.html ...|$|R
+50|$|For through freight trains, {{the first}} year {{prediction}} was 7.2 million gross tonnes; the actual 1995 figure was 1.3M gross tonnes. Through freight <b>volumes</b> peaked <b>in</b> 1998 at 3.1M tonnes. This fell back to 1.21M <b>tonnes</b> <b>in</b> 2007, increasing slightly to 1.24M <b>tonnes</b> <b>in</b> 2008. Together with that carried on freight shuttles, freight growth has occurred since opening, with 6.4M <b>tonnes</b> carried <b>in</b> 1995, 18.4M <b>tonnes</b> recorded <b>in</b> 2003 and 19.6M <b>tonnes</b> <b>in</b> 2007. Numbers fell back {{in the wake of}} the 2008 fire.|$|R
+50|$|The world's largest {{producers}} of ethylene oxide are Dow Chemical Company (3-3.5 million <b>tonnes</b> <b>in</b> 2006), Saudi Basic Industries (2000-2500 <b>tonnes</b> <b>in</b> 2006), Royal Dutch Shell (1.328 million <b>tonnes</b> <b>in</b> 2008-2009), BASF (1.175 million <b>tonnes</b> <b>in</b> 2008-2009), China Petrochemical Corporation (~1 million <b>tonnes</b> <b>in</b> 2006), Formosa Plastics (~1 million <b>tonnes</b> <b>in</b> 2006) and Ineos (0.92 million <b>tonnes</b> <b>in</b> 2008-2009).|$|R
+5000|$|... #Caption: Global wild capture, 1950-2010, <b>in</b> <b>tonnes,</b> of caridean shrimp ...|$|R
+5000|$|... #Caption: A ship's {{hydrostatic}} curves. Lines 4 and 5 {{are used}} to convert from mean draft in meters to displacement <b>in</b> <b>tonnes</b> <b>in</b> Spanish.|$|R
+5000|$|Capacity/steam output required, usually {{measured}} <b>in</b> <b>tonnes</b> {{per hour}} or kg/s.|$|R
+5000|$|... #Caption: Capture of chub {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|Ma: Annual {{mass flow}} of {{different}} materials used, expressed <b>in</b> <b>tonnes</b> ...|$|R
+25|$|Traffic {{declined}} steadily, from 1,530 thousand <b>tonnes</b> <b>in</b> 1863 to 586 thousand <b>tonnes</b> <b>in</b> 1888, 108 thousand <b>tonnes</b> <b>in</b> 1903 and 30 thousand <b>tonnes</b> <b>in</b> 1921.|$|R
+5000|$|... #Caption: Capture of Atlantic {{bluefin tuna}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Capture of Cape horse {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Capture of Chilean jack {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2012 ...|$|R
+5000|$|... #Caption: Capture of Cunene horse {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Commercial {{capture of}} Atlantic {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Commercial {{capture of}} double-lined {{mackerel}} (<b>in</b> <b>tonnes)</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Commercial {{capture of}} king {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Global {{capture of}} capelin <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2010 ...|$|R
+5000|$|WAG-7H has the {{following}} capacity while hauling BOX wagons (<b>in</b> <b>tonnes)</b> : ...|$|R
+50|$|According to IBGE, the {{greatest}} productions are: banana (30 <b>tonnes</b> <b>in</b> 2003), sugar cane (133 <b>tonnes</b> <b>in</b> 2003), onion (610 <b>tonnes</b> <b>in</b> 2003), beans (15 tons in 2003), cassava (70 <b>tonnes</b> <b>in</b> 2003), maize (240 tons in 2003), tomatoes (3691 <b>tonnes</b> <b>in</b> 2003).|$|R
+5000|$|... :*Figures are <b>in</b> <b>tonnes</b> of :*Source: European Commission Press Release 23 May 2008 ...|$|R
+5000|$|Em1: Total annual {{emissions}} of greenhouse gases, expressed <b>in</b> <b>tonnes</b> of CO2 equivalent ...|$|R
+5000|$|... #Caption: Commercial {{capture of}} Atlantic horse {{mackerel}} <b>in</b> <b>tonnes</b> from 1950 to 2009 ...|$|R
+5000|$|... #Caption: Global Aquaculture Production {{of common}} carp <b>in</b> <b>tonnes</b> from 1950 to 2013 ...|$|R
+5000|$|... #Caption: Global {{capture of}} Alaska pollock <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2010 ...|$|R
+5000|$|... #Caption: Global {{capture of}} American eel <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2009 ...|$|R
+5000|$|... #Caption: Global {{capture of}} Dorab {{wolf-herrings}} <b>in</b> <b>tonnes</b> {{reported by the}} FAO, 1950-2009 ...|$|R
+5000|$|... #Caption: Global {{capture of}} Greenland cod <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2010 ...|$|R
+5000|$|... #Caption: Global {{capture of}} Pandalus borealis <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2010 ...|$|R
+5000|$|... #Caption: Global {{capture of}} short-finned eel <b>in</b> <b>tonnes</b> {{reported}} by the FAO, 1950-2009 ...|$|R
+5000|$|... #Caption: Global {{commercial}} {{capture of}} billfish {{reported by the}} FAO <b>in</b> <b>tonnes</b> 1950-2009 ...|$|R
+5000|$|Wa1: Total annual {{generation}} of waste, {{broken down by}} type, expressed <b>in</b> <b>tonnes</b> ...|$|R

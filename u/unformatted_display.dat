@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|The F or File spec(s) are next, and {{describes}} the files {{used in the}} program. Files may be disk files (DISK) or may be devices such as a printer (PRINTER), the workstation (WORKSTN), keyboard (KEYBORD), <b>unformatted</b> <b>display</b> (CRT or DISPLAY), or user-defined (SPECIAL). Record size, block size, overflow indicators, and external indicators are described. It is possible that an RPG program will not use any F specs.|$|E
+

@@ -1,0 +1,37 @@
+3032|10000|Public
+25|$|The {{information}} in <b>this</b> <b>article</b> <b>is</b> <b>based</b> {{on that in}} its German equivalent.|$|E
+25|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> entirely or {{partially}} on its equivalent on Dutch Wikipedia.|$|E
+25|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on text {{taken from}} , 1855, George Routledge & Co.|$|E
+50|$|<b>This</b> <b>article</b> <b>was</b> <b>based</b> on the Greek-language article.|$|R
+50|$|The {{original}} {{essay on}} which <b>this</b> <b>article</b> <b>was</b> <b>based.</b>|$|R
+5000|$|<b>This</b> <b>article</b> <b>was</b> <b>based</b> in http://www.diggiloo.net/?1975yu, {{retrieved}} on March 23, 2009 ...|$|R
+25|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> loosely on a {{translation}} of the corresponding article from the Spanish Wikipedia.|$|E
+25|$|The {{material}} in <b>this</b> <b>article</b> <b>is</b> <b>based</b> on information published in The Bridge World, particularly Jeff Rubens’ Edgar Kaplan Remembered.|$|E
+25|$|The initial {{version of}} <b>this</b> <b>article</b> <b>is</b> <b>based</b> upon the history section of article Blizna of the English edition of Wikipedia.|$|E
+50|$|Portions of <b>this</b> <b>article</b> <b>are</b> <b>based</b> {{on public}} domain text from NASA.|$|R
+2500|$|Portions of <b>this</b> <b>article</b> <b>are</b> <b>based</b> {{on public}} domain text from the [...]|$|R
+50|$|Parts of <b>this</b> <b>article</b> <b>are</b> <b>based</b> on {{text from}} the CIA World Factbook.|$|R
+25|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on the 1913 book The Snakes of Europe, by G. A. Boulenger, {{which is}} now in the public domain in the United States (and {{possibly}} elsewhere). Because of its age, the text in this article should not necessarily be viewed as reflecting the current knowledge of snake venom.|$|E
+25|$|In figure 2, the process-data {{diagram of}} the {{delivery}} phase within CCU is depicted. This way of modeling was invented by Saeki (2003). On the left side {{you can see the}} meta-process model and on the right side the meta-data model. The two models are linked to each other by the relationships visualized as dotted lines. The meta-data model (right side) shows the concepts involved in the process and how the concepts are related to each other. For instance it is visible that a package consists of multiple parts, being the: software package, system description, manual, and license and management information. The numbers between the relations indicate in what quantity the concepts are related. For example the “1..1” between package and software package means that a package has to contain at least 1 software package and at the most 1 software package. So in this case a package just has to contain 1 software package. On {{the left side of the}} picture the process-data model is depicted. This consists of all the activities within the delivery process. <b>This</b> <b>article</b> <b>is</b> <b>based</b> on this process-data model. The meta-process model (left side of the process-data diagram) is divided into several parts which are presented along with the corresponding paragraphs throughout the article to make it easier to understand.|$|E
+500|$|The {{definition}} of the area covered by a list of [...] "North American" [...] birds is somewhat subjective. The original list published by the American Ornithologists' Union (AOU) in 1886 covered birds found in North America north of Mexico, and included Baja California, Bermuda and Greenland. In 1983, the area was expanded to include all of Mexico, Central America south through Panama, the West Indies and the Hawaiian Islands, while Greenland was dropped. This expansion more than doubled the number of birds on the AOU list. Other organizations, such as the American Birding Association (ABA), use a smaller area: the current ABA area includes the 49 continental states of the US, Canada and the French islands of Saint-Pierre and Miquelon, plus surrounding waters. It does not include Greenland, Bermuda, the Bahamas or the Hawaiian Islands. <b>This</b> <b>article</b> <b>is</b> <b>based</b> on a checklist used by the ABA, which used by most field guides for North American birds, and is complete up to October 2015. Since the ABA follows the AOU on taxonomical matters, the AOU's list is used to settle questions of taxonomy.|$|E
+2500|$|Some {{parts of}} <b>this</b> <b>article</b> <b>are</b> <b>based</b> on {{material}} from FOLDOC, used with [...]|$|R
+5000|$|Much of <b>this</b> <b>article</b> <b>was</b> <b>based</b> on the Dudley Observatory {{history of}} Lewis Boss.|$|R
+50|$|<b>This</b> <b>article</b> <b>was</b> <b>based</b> on <b>this</b> <b>article</b> on Italian Wikipedia and <b>this</b> <b>article</b> on French Wikipedia.|$|R
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> upon a {{translation}} of the [...] as at February 2010.|$|E
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on a {{translation}} of the [...] retrieved on October 7, 2006.|$|E
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on the [...] in the German Wikipedia from 10 May 2006.|$|E
+50|$|<b>This</b> <b>article</b> <b>was</b> <b>based</b> on a {{translation}} of the corresponding article in the Italian Wikipedia.|$|R
+2500|$|The Career and Education {{portions}} of <b>this</b> <b>article</b> <b>are</b> <b>based</b> on public domain text from [...]|$|R
+5000|$|Parts of <b>this</b> <b>article</b> <b>are</b> <b>based</b> on a {{translation}} of an article from the German Wikipedia.|$|R
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on text {{originally}} from [...] of the United States Environmental Protection Agency.|$|E
+2500|$|... This {{citation}} {{is now out}} {{of copyright}} and <b>this</b> <b>article</b> <b>is</b> <b>based</b> in part on this citation.|$|E
+2500|$|... this {{obituary}} {{is now out}} {{of copyright}} and much of <b>this</b> <b>article</b> <b>is</b> <b>based</b> on this obituary.|$|E
+2500|$|The {{start of}} <b>this</b> <b>article</b> <b>was</b> <b>based</b> on a {{translation}} of the Dutch Wikipedia (7 December 2011) ...|$|R
+5000|$|Parts of <b>this</b> <b>article</b> <b>are</b> <b>based</b> on a {{translation}} of an equivalent article at the German Wikipedia.|$|R
+5000|$|Note: <b>This</b> <b>article</b> <b>was</b> <b>based</b> in {{information}} in Diggilloo Thrush: from Diggiloo Thrush retrieved on May 25, 2009 ...|$|R
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> {{in part on}} {{material}} from Federal Standard 1037C and from MIL-STD-188, and ATIS ...|$|E
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on a {{translation}} of the [...] of the Spanish Wikipedia, dated 24 July 2006 ...|$|E
+2500|$|<b>This</b> <b>article</b> <b>is</b> <b>based</b> on a {{translation}} of the equivalent article [...] "Pergamonaltar" [...] in the German Wikipedia.|$|E
+5000|$|The {{first draft}} of <b>this</b> <b>article</b> <b>was</b> <b>based</b> on a {{translation}} of an article on Mondonville in the French Wikipedia.|$|R
+2500|$|An early {{version of}} <b>this</b> <b>article</b> <b>was</b> <b>based,</b> in part, on the [...] in the German Wikipedia, {{retrieved}} April 24, 2005.|$|R
+2500|$|Parts of <b>this</b> <b>article</b> <b>are</b> <b>based</b> on the <b>articles</b> [...] and [...] on the Danish Wikipedia, {{accessed}} on 23 July 2006.|$|R

@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A {{stiffness}} {{control model}} for the stabilization of sway has been proposed recently. This paper discusses two inadequacies of the model: modeling and empiric consistency. First, we show that the in-phase relation between the trajectories {{of the center of}} pressure and the center of mass is determined by physics, not by control patterns. Second, we show that physiological values of stiffness of the ankle muscles are insufficient to stabilize the body “inverted pendulum. ” The evidence of active mechanisms of <b>sway</b> <b>stabilization</b> is reviewed, pointing out the potentially crucial role of foot skin and muscle receptors...|$|E
+

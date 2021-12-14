@@ -1,0 +1,37 @@
+603|822|Public
+25|$|Azure: Azure <b>SQL</b> <b>Database</b> is the {{cloud-based}} {{version of}} Microsoft SQL Server, {{presented as a}} {{platform as a service}} offering on Microsoft Azure.|$|E
+25|$|The SAG {{standardization}} efforts {{presented an}} opportunity for Microsoft to adapt their Jet system to the new CLI standard. This would not only make Windows a premier platform for CLI development, but also allow users to use SQL to access both Jet and other databases as well. What was missing was the SQL parser that could convert those calls from their text form into the C-interface used in Jet. To solve this, MS partnered with PageAhead Software to use their existing query processor, SIMBA. SIMBA {{was used as a}} parser above Jet's C library, turning Jet into an <b>SQL</b> <b>database.</b> And because Jet could forward those C-based calls to other databases, this also allowed SIMBA to query other systems. Microsoft included drivers for Excel to turn its spreadsheet documents into SQL-accessible database tables.|$|E
+5000|$|Web <b>SQL</b> <b>Database</b> - a local <b>SQL</b> <b>Database</b> (no longer maintained); ...|$|E
+5000|$|... {{classes for}} {{accessing}} <b>SQL</b> <b>databases</b> (ODBC, MySQL, PostgreSQL, Oracle, SQLite) ...|$|R
+2500|$|... {{database}} - Interface to <b>SQL</b> <b>databases,</b> currently only postgresql using libpq ...|$|R
+50|$|Some pre <b>SQL</b> <b>databases</b> {{installed}} on VPS were FOCUS and NOMAD2.|$|R
+50|$|While the Classic Client {{supports}} both Native and SQL databases, the RoleTailored Client {{requires a}} <b>SQL</b> <b>database.</b> Additionally, <b>SQL</b> <b>database</b> logins are not supported with the RoleTailored Client.|$|E
+5000|$|Microsoft Azure <b>SQL</b> <b>Database</b> (formerly SQL Azure, SQL Server Data Services, SQL Services, and Windows Azure <b>SQL</b> <b>Database)</b> is a managed cloud {{database}} (SaaS) {{provided as}} part of Microsoft Azure.|$|E
+50|$|For example: if a site {{is using}} an <b>SQL</b> <b>database</b> (such as MySQL) for a script (such as PHP) and that <b>SQL</b> <b>database</b> server crashes, then PHP will display a {{connection}} error.|$|E
+5000|$|Recording of job history, {{frequency}} and log information in <b>SQL</b> <b>databases.</b>|$|R
+5000|$|... {{database}} - Interface to <b>SQL</b> <b>databases,</b> currently only postgresql using libpq ...|$|R
+5000|$|Alphora Dataphor, an {{open source}} product which {{implements}} the language D4 atop <b>SQL</b> <b>databases.</b>|$|R
+5000|$|The 2015 game Hacknet has a hacking {{program called}} SQL_MemCorrupt. It is {{described}} as injecting a table entry that causes a corruption error in a <b>SQL</b> <b>database,</b> then queries said table, causing a <b>SQL</b> <b>database</b> crash and core dump.|$|E
+50|$|Azure <b>SQL</b> <b>Database</b> {{shares the}} SQL Server 2016 codebase. It is {{compatible}} with SQL Server 2014 and 2016 {{and most of the}} features available in SQL Server 2016 are available in Azure <b>SQL</b> <b>Database.</b> A list of incompatibilities is published by Microsoft.|$|E
+5000|$|Several <b>SQL</b> <b>database</b> {{engines are}} {{included}} as external packages ...|$|E
+50|$|The 2.0 version {{supports}} multiple <b>SQL</b> <b>databases,</b> and introduces easy skeletons for web forms.|$|R
+5000|$|Seamless {{integration}} with IBM Lotus Domino and <b>SQL</b> <b>databases</b> including MySQL, Oracle, Microsoft, Sybase.|$|R
+5000|$|Direct {{indexing}} of <b>SQL</b> <b>databases.</b> Native {{support for}} MySQL, MariaDB, PostgreSQL, MSSQL, plus ODBC connectivity.|$|R
+50|$|Oracle, that {{provides}} the central <b>SQL</b> <b>database</b> and Dataware House.|$|E
+5000|$|CockroachDB, an open source, survivable, {{strongly}} consistent, scale-out <b>SQL</b> <b>database.</b>|$|E
+5000|$|H2 (DBMS), an {{open source}} Java <b>SQL</b> <b>database</b> {{management}} system ...|$|E
+5000|$|Support for issuing queries to <b>SQL</b> <b>databases</b> and mapping query results into prefuse data structures.|$|R
+5000|$|Copies {{and backs}} up open files, including: Outlook files, Quicken <b>databases,</b> open <b>SQL</b> <b>databases,</b> and documents.|$|R
+5000|$|Use {{improper}} marshaling or unmarshaling {{in communication}} with <b>SQL</b> <b>databases</b> or between browsers and web servers ...|$|R
+50|$|SQLTags is a {{proprietary}} technology that uses any <b>SQL</b> <b>Database</b> as a Tag Database. Tags {{can be derived}} from the following sources: OPC, expression, or constant and support various configuration options such as: alerting, scaling, and historical storage. SQLTags are stored in Tag Providers, which are automatically configured tables in an <b>SQL</b> <b>database.</b>|$|E
+5000|$|The Clustrix {{distributed}} <b>SQL</b> <b>database</b> uses Paxos for {{distributed transaction}} resolution.|$|E
+5000|$|... mod_authn_dbd - {{provides}} authentication {{based on}} user look-up in <b>SQL</b> <b>database</b> ...|$|E
+5000|$|An {{implementation}} of the JDBC API (used to access <b>SQL</b> <b>databases)</b> is grouped into the [...] package.|$|R
+5000|$|Database {{management}} and experience/expertise with <b>SQL</b> <b>databases</b> such as Oracle, SQL Server and DB2/400 {{with regards to}} EnterpriseOne ...|$|R
+50|$|Tactician 2.0 was {{released}} in 1991 {{with the ability to}} access <b>SQL</b> <b>databases</b> with Apple's Data Access Language.|$|R
+5000|$|SQL {{integration}} {{to store}} users and permissions in <b>SQL</b> <b>database</b> tables.|$|E
+5000|$|SQL report - AbuseHelper writes {{all events}} to a <b>SQL</b> <b>database.</b>|$|E
+5000|$|Firebird is a <b>SQL</b> <b>database,</b> storing all {{mailboxes}} in {{the same}} file ...|$|E
+5000|$|... iBATIS: iBATIS is a {{persistence}} framework which automates {{the mapping}} between <b>SQL</b> <b>databases</b> and objects in Java, [...]NET, and Ruby on Rails.|$|R
+40|$|Conventional <b>SQL</b> <b>databases</b> use <b>SQL</b> (structured query language) {{as their}} primary {{interface}} to manage databases and {{are based on a}} relational database model. The term “NoSQL data-bases ” is an emerging general expression for databases with the aim to not (or almost not) use the functionalities of <b>SQL</b> <b>databases.</b> NoSQL databases shall be non-relational, distributed, open-source and horizontally scalable as the NoSQL archive states. This article clarifies the meaning of this statement, points out the problems of SQL as well as their possible solutions provided by NoSQL and shows the main applications and categories of NoSQL databases. ...|$|R
+5000|$|Modular design, {{allowing}} server to {{be extended}} easily with modules. Modules have been written for <b>SQL</b> <b>databases,</b> LDAP servers, SSL/TLS encryption, RADIUS support, etc.|$|R

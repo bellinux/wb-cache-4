@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The servo {{pressure}} display indicates {{the amount of}} pressure the machine must generateinternally {{in order to achieve}} the PIP appearing in the servo-display. Its value can range from 0—20 psi (0—137.9 kPa). If the PIP sensed or approximated at the distal tip of the tracheal tube deviates from the desired PIP, the machine automatically generates more or less internal pressure in an attempt to compensate for the change. The <b>servo-pressure</b> display keeps the operator informed.|$|E
+

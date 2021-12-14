@@ -1,0 +1,5 @@
+1|2|Public
+50|$|Note {{that the}} most {{significant}} nibble {{of the most significant}} byte is zero, implying that the number is in actuality 012345. Also note how packed BCD is more efficient in storage usage as compared to unpacked BCD; encoding the same number (with the leading zero) in <b>unpacked</b> <b>format</b> would consume twice the storage.|$|E
+5000|$|Several {{programs}} can <b>unpack</b> the file <b>format.</b> [...] some 3rd-party programs documented as [...] "supporting the RAR format" [...] did not recognise RAR5 files.|$|R
+50|$|Several {{microprocessor}} families offer limited decimal support. For example, the 80x86 {{family of}} microprocessors provide instructions to convert one-byte BCD numbers (packed and <b>unpacked)</b> to binary <b>format</b> {{before or after}} arithmetic operations. These operations were not extended to wider formats and hence are now slower than using 32-bit or wider BCD 'tricks' to compute in BCD (see http://www.cs.uiowa.edu/~jones/bcd/bcd.html). The x87 FPU has instructions to convert 10-byte (18 decimal digits) packed decimal data, although it then operates on them as floating-point numbers.|$|R
+

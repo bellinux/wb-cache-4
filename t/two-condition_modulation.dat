@@ -1,0 +1,4 @@
+2|0|Public
+50|$|For serial {{transmission}} {{in a single}} channel, the DSR reduces to (1/T)log2n; with a <b>two-condition</b> <b>modulation,</b> i. e. n = 2, the DSR is 1/T, according to Hartley's law.|$|E
+50|$|For {{parallel}} transmission with equal unit intervals and {{equal numbers of}} significant conditions on each channel, the DSR is (m/T)log2n; {{in the case of}} a <b>two-condition</b> <b>modulation,</b> this reduces to m/T.|$|E
+

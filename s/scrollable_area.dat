@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A {{valuable}} {{record of}} a user’s internet activity for computer forensic examinations Each session of activity in a Mozilla browser is recorded by the browser {{so that in the}} event of the browser crashing the session can be restored. Session Restore saves all open windows and tabs, width, height, and position of each window, scroll position within each <b>scrollable</b> <b>area</b> in each window, history of closed tabs and windows, cookies, text typed in forms and information to restart downloads. It is possible to recover multiple versions of this information in order to show a user’s internet activity. Other browsers also have the facility to restore a previous session...|$|E
+

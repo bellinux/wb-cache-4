@@ -1,0 +1,4 @@
+2|0|Public
+50|$|The process state {{includes}} all the registers {{that the process}} may be using, especially the program counter, plus any other operating system specific data that may be necessary. This is usually stored in a data structure called a process control block (PCB) or <b>switchframe.</b>|$|E
+5000|$|Process Control Block (PCB, {{also called}} Task Controlling Block, Entry of the Process Table, Task Struct, or <b>Switchframe)</b> is a data {{structure}} in the operating system kernel containing the information needed to manage a particular process. The PCB is [...] "the manifestation of a process in an operating system." ...|$|E
+

@@ -1,0 +1,37 @@
+1020|10000|Public
+25|$|Fractional Fourier {{transform}} {{can be used}} in {{time frequency}} analysis and DSP. It is useful to filter noise, but with the condition that it does not overlap with the desired signal in the time–frequency domain. Consider the following example. We cannot apply a filter directly to eliminate the noise, but {{with the help of the}} fractional Fourier transform, we can rotate the signal (including the desired signal and noise) first. We then apply a specific filter, which will allow only the desired signal to pass. Thus the noise will be removed completely. Then we use the fractional Fourier transform again to rotate the signal back and <b>we</b> <b>can</b> <b>get</b> <b>the</b> desired signal.|$|E
+500|$|In 1894, Massachusetts {{astronomer}} Percival Lowell hired A. E. Douglass {{to scout}} an ideal {{site for a}} new observatory. Douglass, impressed by Flagstaff's elevation, named it as an ideal location for the now famous Lowell Observatory, saying: [...] "other things being equal, the higher <b>we</b> <b>can</b> <b>get</b> <b>the</b> better". Two years later, the specially designed [...] Clark telescope that Lowell had ordered was installed. In 1930, Pluto was discovered {{using one of the}} observatory's telescopes. In 1955 the U.S. Naval Observatory joined the growing astronomical presence, and established the United States Naval Observatory Flagstaff Station, where Pluto's satellite, Charon, was discovered in 1978.|$|E
+2500|$|... and {{conversely}} <b>we</b> <b>can</b> <b>get</b> <b>the</b> Mellin transform {{from the}} two-sided Laplace transform by ...|$|E
+30|$|<b>We</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} inequalities.|$|R
+30|$|From Theorem 4.2, <b>we</b> <b>can</b> <b>get</b> {{immediately}} <b>the</b> following corollary.|$|R
+30|$|Then <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} lemma.|$|R
+2500|$|Applying {{linearization}} {{techniques to}} {{the equation of}} motions for both species, to the equation of continuity, and Poisson's equation, and introducing the spatial and temporal harmonic operators , [...] <b>we</b> <b>can</b> <b>get</b> <b>the</b> following expression: ...|$|E
+2500|$|... "Our {{strategy}} has been {{to change the subject}} a bit, so that <b>we</b> <b>can</b> <b>get</b> <b>the</b> issue of intelligent design, which really means the reality of God, before the academic world and into the schools." ...|$|E
+6000|$|... "That's a notion. But I think <b>we</b> <b>can</b> <b>get</b> <b>the</b> 'Constance' {{around about}} {{as soon as}} your men's freight. Better go to bed now." ...|$|E
+30|$|<b>We</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} two lemmas.|$|R
+30|$|<b>We</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} lemma by Remark  1.5.|$|R
+30|$|In <b>the</b> end, <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} corollary.|$|R
+6000|$|... "Do {{you really}} think <b>we</b> <b>can</b> <b>get</b> <b>the</b> {{photographs}} your father wants, Shep?" [...] asked Snap. [...] "It wouldn't be fair to take the offer up and then disappoint him." ...|$|E
+6000|$|... 'I'll make it payable the {{day after}} to-morrow,' said the little man, with a look towards Mr. Wardle; 'and <b>we</b> <b>can</b> <b>get</b> <b>the</b> lady away, meanwhile.' Mr. Wardle sullenly nodded assent.|$|E
+6000|$|... "Maybe <b>we</b> <b>can</b> <b>get</b> <b>the</b> {{girls to}} go up, {{for just a}} little sail, you know," [...] said Sam. [...] "I am sure the Dartaway could carry them, on a pinch." ...|$|E
+30|$|From Lemma 2.2, <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> {{inequality}} (1.4).|$|R
+30|$|From Theorem  3.1, <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} result.|$|R
+30|$|By Lemma  3.13, <b>we</b> <b>can</b> straightforwardly <b>get</b> <b>the</b> {{following}} theorem.|$|R
+6000|$|... "Something {{else has}} got to be done, old man," [...] he said, in a voice which shook with emotion; [...] "they'll be on us before <b>we</b> <b>can</b> <b>get</b> <b>the</b> Maria out." ...|$|E
+6000|$|... "Let's do {{it right}} now, Slug," [...] {{he said in a}} low voice. [...] "I don't care what it is, so long as <b>we</b> <b>can</b> <b>get</b> <b>the</b> best of those Rovers." ...|$|E
+6000|$|... "We do, if <b>we</b> <b>can</b> <b>get</b> <b>the</b> machine into shape," [...] {{answered}} Tom. [...] "It may be {{that something}} got broke on the way {{and will have to}} be mended," [...] he added, anxiously.|$|E
+30|$|According to Theorem  2.1, <b>we</b> <b>can</b> {{directly}} <b>get</b> <b>the</b> following.|$|R
+30|$|From Propositions 3.2, 3.3, and 3.6, <b>we</b> <b>can</b> <b>get</b> {{immediately}} <b>the</b> following corollary.|$|R
+30|$|Combining Lemma  2.1 with Lemma  2.3, <b>we</b> <b>can</b> <b>get</b> {{directly}} <b>the</b> following result.|$|R
+6000|$|... "That's really clever, my dear," [...] he said, [...] "and I see {{no reason}} why we can't do it, just the way you say, if only <b>we</b> <b>can</b> <b>get</b> <b>the</b> wild monkeys to agree to it." ...|$|E
+6000|$|It was a {{very tall}} tree, and the trunk was so smooth {{that no one could}} climb it; but the Woodman said at once, [...] "I'll chop it down, and then <b>we</b> <b>can</b> <b>get</b> <b>the</b> Scarecrow's clothes." ...|$|E
+6000|$|Trot hesitated, so {{they all}} looked to Rosalie for advice. [...] "Just as soon as <b>we</b> <b>can</b> <b>get</b> <b>the</b> army {{together}} and ready," [...] decided the Witch. [...] "That will not take long. Perhaps two or three days." ...|$|E
+30|$|<b>We</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} Lemma  2.4 from Lemma  2.2.|$|R
+30|$|With a quick observation, <b>we</b> <b>can</b> firstly <b>get</b> <b>the</b> {{following}} property.|$|R
+30|$|By [1], for (6), <b>we</b> <b>can</b> {{directly}} <b>get</b> <b>the</b> following conclusions.|$|R
+6000|$|... "If <b>we</b> <b>can</b> <b>get</b> <b>the</b> {{money there}} will be an end of the discontent; we {{know how to deal with}} it. And now, with apologies, I must remark that while we give you the first opportunity, there are others----" ...|$|E
+6000|$|Wyndham nodded. [...] "That's plain. Well, {{if we go}} to bed {{soon after}} {{shooting}} and are lucky, they won't miss us until somebody brings our early breakfast. I don't know if <b>we</b> <b>can</b> <b>get</b> <b>the</b> horses. Now I'm going to sleep." ...|$|E
+6000|$|... 'Come, Ella,' said Minna, one afternoon, as she {{descended the}} bare rickety stairs, 'Ave is getting better; and if <b>we</b> <b>can</b> <b>get</b> <b>the</b> fire up, {{and make some}} coffee and boil some eggs, it will be {{comfortable}} for her when she comes down and Henry comes in.' ...|$|E
+30|$|By [9, 14, 15], <b>we</b> <b>can</b> {{directly}} <b>get</b> <b>the</b> following conclusions.|$|R
+30|$|Combining {{the above}} two inequalities, <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> result.|$|R
+30|$|According to Lemma 3.2, <b>we</b> <b>can</b> easily <b>get</b> <b>the</b> {{following}} result.|$|R

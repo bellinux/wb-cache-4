@@ -1,0 +1,3 @@
+1|0|Public
+40|$|The {{problem of}} wiring pairs of points in Manhattan and {{rectilinear}} fashion is considered. We develop an O(n²) algorithm {{to determine whether}} or not a set of n point pairs can be wired in Manhattan fashion on a single layer. When this is possible, our algorithm generates the layout. We show that determining the maximum number of point pairs that can be wired in Manhattan fashion is NP-hard. The problem of determining the minimum number of layers needed to wire a set of n point pairs is also NP-hard. For the rectilinear wiring problem, we show that determining whether or not a set of n point pairs is <b>wireable</b> on a given grid is NP-complete...|$|E
+

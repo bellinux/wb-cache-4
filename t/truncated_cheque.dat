@@ -1,0 +1,5 @@
+2|1|Public
+50|$|A cheque is bill of {{exchange}} drawn on a specified banker and not expressed to be payable otherwise than on demand and it includes the electronic image of a <b>truncated</b> <b>cheque</b> and a cheque in the electronic form.|$|E
+5000|$|... (b) a <b>{{truncated}}</b> <b>cheque</b> means a cheque {{which is}} truncated {{during the course}} of a clearing cycle, either by the clearing house or by the bank whether paying or receiving payment, immediately on generation of an electronic image for transmission, substituting the further physical movement of the cheque in writing.|$|E
+50|$|It {{also needed}} to address the process for dishonoured cheques, as cheques {{could no longer be}} returned. A typical solution, as defined by the Monetary Authority of Singapore for the Singapore cheque {{truncation}} system, was that a special 'Image Return Document' was created and sent back to the bank that had <b>truncated</b> the <b>cheque.</b>|$|R
+
